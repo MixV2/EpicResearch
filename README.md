@@ -17,4 +17,3 @@ A compilation of research dedicated to the internal workings of Fortnite.
 | -fullscreen | ? |
 
 > Not all of these values will work on the latest build of Fortnite.
-> Aswell as this, some of these commands have been removed from Fortnite.
