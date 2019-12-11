@@ -8,10 +8,13 @@ A compilation of research dedicated to the internal workings of Fortnite.
   - [1.2 Launch Parameters](#12-launchparameters)
 
 ## 1.2 Launch Parameters
-| Launch Parameter | Description |
+| Launch Parameter | Function |
 | - | - |
-| -skippatchcheck | ? |
+| -skippatchcheck | Function unknown, could be related to checking for hotfixes. |
 | -buildidoverride | ? |
 | -MCPRegion | ? |
 | -windowed | ? |
 | -fullscreen | ? |
+
+> Not all of these values will work on the latest build of Fortnite.
+> Aswell as this, some of these commands have been removed from Fortnite.
