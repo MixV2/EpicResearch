@@ -6,6 +6,7 @@ A compilation of research dedicated to the internal workings of Fortnite.
 - [1. FortniteResearch](#1-fortniteresearch)
   - [1.1 Contents](#11-contents)
   - [1.2 Launch Parameters](#12-launchparameters)
+  - [1.3 AntiCheats](#13-anticheats)
 
 ## 1.2 Launch Parameters
 | Launch Parameter | Function |
@@ -26,3 +27,10 @@ A compilation of research dedicated to the internal workings of Fortnite.
 | -nomcp | Disables MCP. |
 
 > Not all of these values will work on the latest build of Fortnite.
+
+## 1.3 AntiCheats
+Disclaimer: No help will be given with trying to bypass anticheat to use on Fortnite production, so don't bother asking.
+
+Fortnite uses two anticheats (one at a time, though) - EasyAntiCheat and BattlEye. EasyAntiCheat can be forced by setting date and time ahead, whilst BattlEye can be forced by starting the game with `-noeac -fromfl=be`.
+
+On versions before 11.00, anticheat can be entirely bypassed by using an old version of `FortniteLauncher.exe` and starting the game with `-ForceACP=0`. With anticheat bypassed (not on production), you can do very useful things such as directly read/writing to memory aswell as modifying INI files.
