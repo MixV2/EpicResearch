@@ -43,7 +43,7 @@ Authentication related requests use both `https://www.epicgames.com` and `https:
     
 An example service request:
 ```http
-POST https://account-public-service-prod-m.ol.epicgames.com/account/api/oauth/token HTTP/1.1
+POST https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token HTTP/1.1
 Authorization: basic MzhkYmZjMzE5NjAyNGQ1OTgwMzg2YTM3YjdjNzkyYmI6YTYyODBiODctZTQ1ZS00MDliLTk2ODEtOGYxNWViN2RiY2Y1
 Content-Type: application/x-www-form-urlencoded
 
