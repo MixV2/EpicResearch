@@ -16,12 +16,12 @@ Authentication related requests use both `https://www.epicgames.com` and `https:
   ### Authorization Header
   For the first service request, `/account/api/oauth/token`, requires an `Authorization` header to determine which game an authentication token should be generate for. The value passed in the header is formatted as `client_id:secret` and then encoded in Base64.
 
+  | Game | Client ID | Secret |
+  | - | - | - |
+  | Fortnite PC | ec684b8c687f479fadea3cb2ad83f5c6 | e1f31c211f28413186262d37a13fc84d |
+
   ### Grant Types
   - Grant types are used to determine what type of authentication request is being sent. The most used and useful grant types are `exchange_code`, `refresh_token` and `client_credentials`.
-  
-  | Game | Client ID | Secret | Header |
-  | - | - | - | - |
-  | Fortnite PC | ec684b8c687f479fadea3cb2ad83f5c6 | e1f31c211f28413186262d37a13fc84d | ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY6ZTFmMzFjMjExZjI4NDEzMTg2MjYyZDM3YTEzZmM4NGQ= |
   
   - List of grant types:
     - `password`, takes username & password (deprecated)
