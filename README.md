@@ -13,7 +13,20 @@ A compilation of research dedicated to the internal workings of Epic's services.
 Authentication related requests use both `https://www.epicgames.com` and `https://account-public-service-prod.ol.epicgames.com`.
 
 ### 1.2.1 Authentication Flow
+1. Get an XSRF token.
+```http
+GET https://www.epicgames.com/id/csrf HTTP/1.1
+Host: www.epicgames.com
+Cookie: ...
+```
 
+Returns:
+```http
+HTTP/1.1 204 No Content
+Access-Control-Allow-Credentials: true
+Set-Cookie: ...
+```
+Make sure you have a cookie jar setup so the `Cookie` header carries over to every single request.
 
 ### 1.2.2 Account Public Service
   The base URL for this service is `https://account-public-service-prod.ol.epicgames.com`. Other URLs include `https://account-public-service-prod03.ol.epicgames.com`, `https://account-public-service-prod-m.ol.epicgames.com` and `https://account-public-service-stage.ol.epicgames.com`.
