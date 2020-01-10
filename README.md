@@ -12,6 +12,15 @@ Authentication related requests use both `https://www.epicgames.com` and `https:
 
 ### 1.2.1 Account Public Service
   The base URL for this service is `https://account-public-service-prod.ol.epicgames.com`. Other URLs include `https://account-public-service-prod03.ol.epicgames.com`, `https://account-public-service-prod-m.ol.epicgames.com` and `https://account-public-service-stage.ol.epicgames.com`.
+  
+An example service request used for getting an access token:
+```http
+POST https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token HTTP/1.1
+Authorization: basic MzhkYmZjMzE5NjAyNGQ1OTgwMzg2YTM3YjdjNzkyYmI6YTYyODBiODctZTQ1ZS00MDliLTk2ODEtOGYxNWViN2RiY2Y1
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=client_credentials
+```
 
   ### Authorization Header
   For the first service request, `/account/api/oauth/token`, requires an `Authorization` header to determine which game an authentication token should be generate for. The value passed in the header is formatted as `client_id:secret` and then encoded in Base64.
@@ -40,12 +49,3 @@ Authentication related requests use both `https://www.epicgames.com` and `https:
     - `refresh_token`, takes a refresh token
     - `otp`, takes a two factor auth challenge
     - `client_credentials`
-    
-An example service request used for getting an access token:
-```http
-POST https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token HTTP/1.1
-Authorization: basic MzhkYmZjMzE5NjAyNGQ1OTgwMzg2YTM3YjdjNzkyYmI6YTYyODBiODctZTQ1ZS00MDliLTk2ODEtOGYxNWViN2RiY2Y1
-Content-Type: application/x-www-form-urlencoded
-
-grant_type=client_credentials
-```
