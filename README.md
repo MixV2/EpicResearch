@@ -6,12 +6,16 @@ A compilation of research dedicated to the internal workings of Epic's services.
 - [1. EpicResearch](#1-epicresearch)
   - [1.1 Contents](#11-contents)
   - [1.2 Authentication](#12-authentication)
-    - [1.2.1 Account Public Service](#121-account-public-service)
+    - [1.2.1 Authentication Flow](#121-authentication-flow)
+    - [1.2.2 Account Public Service](#122-account-public-service)
 
 ## 1.2 Authentication
 Authentication related requests use both `https://www.epicgames.com` and `https://account-public-service-prod.ol.epicgames.com`.
 
-### 1.2.1 Account Public Service
+### 1.2.1 Authentication Flow
+
+
+### 1.2.2 Account Public Service
   The base URL for this service is `https://account-public-service-prod.ol.epicgames.com`. Other URLs include `https://account-public-service-prod03.ol.epicgames.com`, `https://account-public-service-prod-m.ol.epicgames.com` and `https://account-public-service-stage.ol.epicgames.com`.
   
 An example service request used for getting an access token:
