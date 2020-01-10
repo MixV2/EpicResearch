@@ -16,6 +16,8 @@ Authentication related requests use both `https://www.epicgames.com` and `https:
   ### Authorization Header
   For the first service request, `/account/api/oauth/token`, requires an `Authorization` header to determine which game an authentication token should be generate for. The value passed in the header is formatted as `client_id:secret` and then encoded in Base64.
 
+For example, say `TestGame` has client id `72f83226ab664739b635b1e318a635bc` and secret `ec684b8c687f479fadea3cb2ad83f5c6` - both these tokens would be put together as `72f83226ab664739b635b1e318a635bc:ec684b8c687f479fadea3cb2ad83f5c6` and then encoded to Base64, which gives `NzJmODMyMjZhYjY2NDczOWI2MzViMWUzMThhNjM1YmM6ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY=`. The result can then be used as an Authorization header, `Basic NzJmODMyMjZhYjY2NDczOWI2MzViMWUzMThhNjM1YmM6ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY=`.
+
   | Game | Client ID | Secret |
   | - | - | - |
   | Fortnite PC | ec684b8c687f479fadea3cb2ad83f5c6 | e1f31c211f28413186262d37a13fc84d |
