@@ -41,7 +41,7 @@ Authentication related requests use both `https://www.epicgames.com` and `https:
     - `otp`, takes a two factor auth challenge
     - `client_credentials`
     
-An example service request:
+An example service request used for getting an access token:
 ```http
 POST https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token HTTP/1.1
 Authorization: basic MzhkYmZjMzE5NjAyNGQ1OTgwMzg2YTM3YjdjNzkyYmI6YTYyODBiODctZTQ1ZS00MDliLTk2ODEtOGYxNWViN2RiY2Y1
