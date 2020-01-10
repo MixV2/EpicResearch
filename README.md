@@ -14,18 +14,19 @@ Authentication related requests use both `https://www.epicgames.com` and `https:
 
 ### 1.2.1 Authentication Flow
 1. Get an XSRF token.
-  ```http
-  GET https://www.epicgames.com/id/csrf HTTP/1.1
-  Host: www.epicgames.com
-  Cookie: ...
-  ```
+- Request:
+```http
+GET https://www.epicgames.com/id/csrf HTTP/1.1
+Host: www.epicgames.com
+Cookie: ...
+```
 
-Returns:
-  ```http
-  HTTP/1.1 204 No Content
-  Access-Control-Allow-Credentials: true
-  Set-Cookie: ...
-  ```
+- Response:
+```http
+HTTP/1.1 204 No Content
+Access-Control-Allow-Credentials: true
+Set-Cookie: ...
+```
 Make sure you have a cookie jar setup so the `Cookie` header carries over to every single request.
 
 ### 1.2.2 Account Public Service
