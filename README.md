@@ -6,7 +6,7 @@ A compilation of research dedicated to the internal workings of Epic's services.
 - [1. EpicResearch](#1-epicresearch)
   - [1.1 Contents](#11-contents)
   - [1.2 Authentication](#12-authentication)
-    [1.2.1 Account Public Service](#121-account-public-service)
+    - [1.2.1 Account Public Service](#121-account-public-service)
 
 ## 1.2 Authentication
 Authentication related requests use both `https://www.epicgames.com` and `https://account-public-service-prod.ol.epicgames.com`.
