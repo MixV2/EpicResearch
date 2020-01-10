@@ -1,9 +1,9 @@
-# 1. FortniteResearch
-A compilation of research dedicated to the internal workings of Fortnite.
+# 1. EpicResearch
+A compilation of research dedicated to the internal workings of Epic's services.
 
 ## 1.1 Contents
 
-- [1. FortniteResearch](#1-fortniteresearch)
+- [1. EpicResearch](#1-epicresearch)
   - [1.1 Contents](#11-contents)
   - [1.2 Authentication](#12-authentication)
 
