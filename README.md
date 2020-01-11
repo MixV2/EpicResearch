@@ -13,8 +13,10 @@ A compilation of research dedicated to the internal workings of Epic's services.
 Authentication related requests use both `https://www.epicgames.com` and `https://account-public-service-prod.ol.epicgames.com`.
 
 ### 1.2.1 Authentication Flow
-TODO! For now, I recommend you check out these great examples on how to authenticate:
+TODO! For now, I recommend you check out these implementations on how to authenticate:
 - [C# Auth Flow by iXyles](https://gist.github.com/iXyles/ec40cb40a2a186425ec6bfb9dcc2ddda)
+- [Python Auth Flow by Terbau](https://gist.github.com/Terbau/9a07849fb30c0232af730265c327e27c)
+- [JavaScript Auth Flow by MixV2](https://gist.github.com/MixV2/8483cc20ba2055e78fa72336da1e0bf7)
 
 ### 1.2.2 Account Public Service
   The base URL for this service is `https://account-public-service-prod.ol.epicgames.com`. Other URLs include `https://account-public-service-prod03.ol.epicgames.com`, `https://account-public-service-prod-m.ol.epicgames.com` and `https://account-public-service-stage.ol.epicgames.com`.
