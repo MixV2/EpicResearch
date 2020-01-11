@@ -13,24 +13,8 @@ A compilation of research dedicated to the internal workings of Epic's services.
 Authentication related requests use both `https://www.epicgames.com` and `https://account-public-service-prod.ol.epicgames.com`.
 
 ### 1.2.1 Authentication Flow
-1. Get an XSRF token. Should return nothing but a cookie used to get the XSRF token.
-Make sure you have a cookie jar setup so the `Cookie` header carries over to every single request.
-
-URL: https://www.epicgames.com/id/api/csrf
-Method: GET
-
-2. Execute the login request.
-
-URL: https://www.epicgames.com/id/api/login
-Method: POST
-Headers:
-- `x-xsrf-token`: get the token from the csrf request
-- `Content-Type`: `application/x-www-form-urlencoded`
-- `Cookie`: `...`
-Body:
-- `email`: `...`
-- `password`: `...`
-- `rememberMe`: `true`
+TODO! For now, I recommend you check out these great examples on how to authenticate:
+- [C# Auth Flow by iXyles](https://gist.github.com/iXyles/ec40cb40a2a186425ec6bfb9dcc2ddda)
 
 ### 1.2.2 Account Public Service
   The base URL for this service is `https://account-public-service-prod.ol.epicgames.com`. Other URLs include `https://account-public-service-prod03.ol.epicgames.com`, `https://account-public-service-prod-m.ol.epicgames.com` and `https://account-public-service-stage.ol.epicgames.com`.
