@@ -8,6 +8,7 @@ A compilation of research dedicated to the internal workings of Epic's services.
   - [1.2 Authentication](#12-authentication)
     - [1.2.1 Authentication Flow](#121-authentication-flow)
     - [1.2.2 Account Public Service](#122-account-public-service)
+  - [1.3 Domains](#13-domains)
 
 ## 1.2 Authentication
 Authentication related requests use both `https://www.epicgames.com` and `https://account-public-service-prod.ol.epicgames.com`.
@@ -64,3 +65,83 @@ grant_type=client_credentials&token_type=eg1
     - `refresh_token`, takes a refresh token
     - `otp`, takes a two factor auth challenge
     - `client_credentials`
+
+### 1.3 Domains
+A list of domains for each service, with varying environments.
+
+Base subdomains:
+- prod.ol.epicgames.com
+- stage.ol.epicgames.com
+- gamedev.ol.epicgames.net
+
+#### Unreal Tournament Service
+- ut-public-service-ci.ol.epicgames.net
+- ut-public-service-maintesting-gamedev.ol.epicgames.net
+- ut-public-service-uereleasetesting-gamedev.ol.epicgames.net
+- ut-public-service-gamedev.ol.epicgames.net
+- ut-public-service-stage.ol.epicgames.net
+- ut-public-service-publictest-prod12.ol.epicgames.com
+- ut-public-service-quail-prod12.ol.epicgames.com
+- ut-public-service-prod10.ol.epicgames.com
+
+#### Fortnite Public Service
+- fortnite-public-service-ci.ol.epicgames.net
+- fortnite-public-service-main-gamedev.ol.epicgames.net
+- fortnite-public-service-uereleasetesting-gamedev.ol.epicgames.net
+- fortnite-public-service-flow-gamedev.ol.epicgames.net
+- fortnite-public-service-latest-gamedev.ol.epicgames.net
+- fortnite-public-service-testing-gamedev.ol.epicgames.net
+- fortnite-public-service-devathena-gamedev.ol.epicgames.net
+- fortnite-public-service-devathenalatest-gamedev.ol.epicgames.net
+- fortnite-public-service-featurealatest-gamedev.ol.epicgames.net
+- fortnite-public-service-featureblatest-gamedev.ol.epicgames.net
+- fortnite-public-service-releasetesting-gamedev.ol.epicgames.net
+- fortnite-public-service-stage.ol.epicgames.com
+- fortnite-public-service-nscert-stage.ol.epicgames.com
+- fortnite-public-service-live-stage.ol.epicgames.com
+- fortnite-public-service-release-stage.ol.epicgames.com
+- fortnite-public-service-dev-stage.ol.epicgames.com
+- fortnite-public-service-prod11.ol.epicgames.com
+- fortnite.fortnite.qq.com
+- fortnite-public-service-publictest-prod12.ol.epicgames.com
+- fortnite-public-service-preview-prod.ol.epicgames.com
+- fortnite-public-service-events-prod.ol.epicgames.com
+- fortnite-public-service-reviewcn-prod.ol.epicgames.com
+- fortnite-public-service-loadtest-prod.ol.epicgames.com
+- fortnite-public-service-extqadevtesting-prod.ol.epicgames.com
+- fortnite-public-service-devplaytest-prod12.ol.epicgames.com
+- fortnite-public-service-bacchusplaytest-prod.ol.epicgames.com
+- fortnite-public-service-loctesting-prod12.ol.epicgames.com
+- fortnite-public-service-extqareleasetesting-prod.ol.epicgames.com
+- fortnite-public-service-extqareleasetestingb-prod.ol.epicgames.com
+- fortnite-public-service-releaseplaytest-prod.ol.epicgames.com
+- fortnite-public-service-predeploya-prod.ol.epicgames.com
+- fortnite-public-service-predeployb-prod.ol.epicgames.com
+- fortnite-public-service-livetesting-prod.ol.epicgames.com
+- fortnite-service-livetesting.fortnite.qq.com
+- fortnite-service-epicreleasetesting.fortnite.qq.com
+- fortnite-service-tencentreleasetesting.fortnite.qq.com
+- fortnite-service-securitytesting.fortnite.qq.com
+- fortnite-public-service-partners-prod.ol.epicgames.com
+- fortnite-public-service-partnersstable-prod.ol.epicgames.com
+- fortnite-public-service-ioscert-prod.ol.epicgames.com
+- fortnite-public-service-athena-prod.ol.epicgames.com
+
+#### Account Public Service
+- account-public-service-common-gamedev.ol.epicgames.net
+- account-public-service-prod03.ol.epicgames.com
+- account-public-service-prod.ol.epicgames.com
+- account-public-service-stage.ol.epicgames.com
+
+#### Friends Public Service
+- friends-public-service-gamedev.ol.epicgames.net
+- friends-public-service-prod06.ol.epicgames.com
+
+#### Persona Public Service
+- persona-public-service-gamedev.ol.epicgames.net
+- persona-public-service-prod06.ol.epicgames.com
+
+#### Entitlement Public Service
+- entitlement-public-service-gamedev.ol.epicgames.net
+- entitlement-public-service-prod08.ol.epicgames.com
+
