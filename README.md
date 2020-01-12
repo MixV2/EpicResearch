@@ -49,6 +49,8 @@ grant_type=client_credentials&token_type=eg1
   | launcherServiceClient | f3e80378aed4462498774a7951cd263f | Unknown |
   | utClient | 1252412dc7704a9690f6ea4611bc81ee | Unknown |
   | wexIOSGameClient | ec813099a59f48d4a338f1901c1609db | 72f6db62-0e3e-4439-97df-ee21f7b0ae94 |
+  | utDedicatedServerEpicTrusted | ad8def9ae6b84360b6c9b358aba06262 | Unknown |
+  | utDedicatedServerEpicHosted | e0aca23dfb7348d6bad648bbe175a6e6 | Unknown |
 
   ### Grant Types
   - Grant types are used to determine what type of authentication request is being sent. The most used and useful grant types are `exchange_code`, `refresh_token` and `client_credentials`.
