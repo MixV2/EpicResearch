@@ -46,6 +46,8 @@ grant_type=client_credentials&token_type=eg1
   | Kairos Android | 0716a69cb8b2422fbb2a8b0879501471 | cGthdfG68tyE7M3ZHMu3sXUBwqhibKFp |
   | launcherAppClient2 | 34a02cf8f4414e29b15921876da36f9a | daafbccc737745039dffe53d94fc76cf |
   | androidPortal | 38dbfc3196024d5980386a37b7c792bb | a6280b87-e45e-409b-9681-8f15eb7dbcf5 |
+  | launcherServiceClient | f3e80378aed4462498774a7951cd263f | Unknown |
+  | utClient | 1252412dc7704a9690f6ea4611bc81ee | Unknown |
 
   ### Grant Types
   - Grant types are used to determine what type of authentication request is being sent. The most used and useful grant types are `exchange_code`, `refresh_token` and `client_credentials`.
