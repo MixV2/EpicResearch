@@ -27,8 +27,10 @@ POST https://account-public-service-prod.ol.epicgames.com/account/api/oauth/toke
 Authorization: basic MzhkYmZjMzE5NjAyNGQ1OTgwMzg2YTM3YjdjNzkyYmI6YTYyODBiODctZTQ1ZS00MDliLTk2ODEtOGYxNWViN2RiY2Y1
 Content-Type: application/x-www-form-urlencoded
 
-grant_type=client_credentials
+grant_type=client_credentials&token_type=eg1
 ```
+
+`token_type` with value `eg1` can be appended to return a [JWT token](https://jwt.io/introduction/) - or, you can optionally not append `token_type` and receive a 32 character token that works in the same way.
 
   ### Authorization Header
   For the first service request, `/account/api/oauth/token`, requires an `Authorization` header to determine which game an authentication token should be generate for. The value passed in the header is formatted as `client_id:secret` and then encoded in Base64.
