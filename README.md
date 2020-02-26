@@ -54,7 +54,8 @@ grant_type=client_credentials&token_type=eg1
   | utDedicatedServerEpicHosted | e0aca23dfb7348d6bad648bbe175a6e6 | Unknown |
   | Google (YouTube) | fa39ae1203b5438280f515f38a50f08e | 1564071012329 |
   | merch-sso (Retail Row) | 9427129c087d4049886d3b47349d1aad | 95ba71fc75198ebce22b69dc89e5b27adcf78ec1 |
-  | SF Community | b31a9e178ab84b21ad7435a53e4da4af | Unknown |
+  | SF Community | b31a9e178ab84b21ad7435a53e4da4af | Not Needed |
+  | udnClient | bc742d26f8314469aa997373f39c876e | Not Needed |
 
   ### Grant Types
   - Grant types are used to determine what type of authentication request is being sent. The most used and useful grant types are `exchange_code`, `refresh_token` and `client_credentials`.
