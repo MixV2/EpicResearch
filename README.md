@@ -57,6 +57,7 @@ grant_type=client_credentials&token_type=eg1
   | SF Community | b31a9e178ab84b21ad7435a53e4da4af | Not Needed |
   | udnClient | bc742d26f8314469aa997373f39c876e | Not Needed |
   | dieselWebsite | 875a3b57d3a640a6b7f9b4e883463ab4 | Not Needed |
+  | fortniteComClient | cd2b7c19c9734a2ab98dc251868d7724 | Not Needed |
 
   ### Grant Types
   - Grant types are used to determine what type of authentication request is being sent. The most used and useful grant types are `exchange_code`, `refresh_token` and `client_credentials`.
