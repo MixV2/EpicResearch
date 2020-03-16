@@ -74,6 +74,7 @@ grant_type=client_credentials&token_type=eg1
     - `refresh_token`, takes a refresh token
     - `otp`, takes a two factor auth challenge
     - `client_credentials`
+    - `token_to_token` (thanks Jaren)
 
 ### 1.3 Domains
 A list of domains for each service, with varying environments.
