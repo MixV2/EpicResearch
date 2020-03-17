@@ -81,6 +81,6 @@ In the words of Epic Games, Fortnite has a service called the MCP which players 
 
   ### Profile Commands
   Here is a list of commands that can be using to retreive information about a profile.
-  All profile command based requests must be formatted as `https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountId}/client/{command}?profileId={profileId}&rvn={revision}`.
+  All profile command based requests must be formatted as `https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountId}/client/{command}?profileId={profileId}&rvn={revision}` and authenticated with a Fortnite client token.
  
   - `QueryProfile` - queries a profile
