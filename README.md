@@ -8,7 +8,8 @@ A compilation of research dedicated to the internal workings of Epic's services.
   - [1.2 Authentication](#12-authentication)
     - [1.2.1 Authentication Flow](#121-authentication-flow)
     - [1.2.2 Account Public Service](#122-account-public-service)
-  - [1.3 Domains](#13-domains)
+  - [1.3 MCP](#13-mcp)
+  - [1.4 Domains](#14-domains)
 
 ## 1.2 Authentication
 Authentication related requests use both `https://www.epicgames.com` and `https://account-public-service-prod.ol.epicgames.com`.
@@ -76,7 +77,16 @@ grant_type=client_credentials&token_type=eg1
     - `client_credentials`
     - `token_to_token` (thanks Jaren)
 
-### 1.3 Domains
+### 1.3 MCP
+In the words of Epic Games, Fortnite has a service called the MCP which players contact in order to retrieve game profiles, statistics, items, matchmaking info and more.
+
+  ### Profile Commands
+  Here is a list of commands that can be using to retreive information about a profile.
+  All profile command based requests must be formatted as `https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountId}/client/{command}?profileId={profileId}&rvn={revision}`.
+ 
+  - `QueryProfile` - queries a profile
+
+### 1.4 Domains
 A list of domains for each service, with varying environments.
 
 Base subdomains:
