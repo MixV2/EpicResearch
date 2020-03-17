@@ -77,7 +77,7 @@ grant_type=client_credentials&token_type=eg1
     - `client_credentials`
     - `token_to_token` (thanks Jaren)
 
-### 1.3 MCP
+## 1.3 MCP
 In the words of Epic Games, Fortnite has a service called the MCP which players contact in order to retrieve game profiles, statistics, items, matchmaking info and more.
 
   ### Profile Commands
