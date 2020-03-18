@@ -61,6 +61,7 @@ grant_type=client_credentials&token_type=eg1
   | affiliateWeb | 4d9a4e9e568a40faa77b9757b4fac210 | Not Applicable |
   | egstoreContentService | a472abd3e5ad4d90a0549213906dcf3f | Not Applicable |
   | creativeModeWebsite | 7de9f4b799d3470984093b218287dc72 | Not Applicable |
+  | fortniteValkyrieGameClient | 3e13c5c57f594a578abe516eecb673fe | 530e316c337e409893c55ec44f22cd62 |
 
   ### Grant Types
   - Grant types are used to determine what type of authentication request is being sent. The most used and useful grant types are `exchange_code`, `refresh_token` and `client_credentials`.
