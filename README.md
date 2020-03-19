@@ -7,7 +7,8 @@ A compilation of research dedicated to the internal workings of Epic's services.
   - [1.1 Contents](#11-contents)
   - [1.2 Authentication](#12-authentication)
     - [1.2.1 Authentication Flow](#121-authentication-flow)
-    - [1.2.2 Account Public Service](#122-account-public-service)
+    - [1.2.2 Device Auth](#122-device-auth)
+    - [1.2.3 Account Public Service](#123-account-public-service)
   - [1.3 MCP](#13-mcp)
 
 ## 1.2 Authentication
@@ -19,7 +20,33 @@ TODO! For now, I recommend you check out these implementations on how to authent
 - [Python Auth Flow by Terbau](https://gist.github.com/Terbau/9a07849fb30c0232af730265c327e27c)
 - [JavaScript Auth Flow by MixV2](https://gist.github.com/MixV2/8483cc20ba2055e78fa72336da1e0bf7)
 
-### 1.2.2 Account Public Service
+### 1.2.2 Device Auth
+Device Auth is a great way to authenticate as you never have to input credentials again. This method of authentication is used by iOS and Android devices when playing Fortnite.
+
+To create a set of device auth credentials, follow these steps:
+1. Authenticate yourself with an [fortniteIOSGameClient](https://github.com/MixV2/EpicResearch#authorization-header) token with your preferred method of authentication.
+
+2. Call `https://account-public-service-prod.ol.epicgames.com/account/api/public/account/10315f3020494d9486fde65b756bf714/deviceAuth` with method `POST`. Your response should look something like:
+```json
+{
+  "deviceId": "...",
+  "accountId": "...",
+  "secret": "...",
+  "userAgent": "Any HTTP Client/0.1",
+  ...
+}
+```
+Make sure to keep hold of the device id and secret values. These are essential for authenticating.
+Well done! You successfully created a set of device auth credentials and are now ready to authenticate with them!
+
+3. As you would when normally authenticating, send a `POST` request to `https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token` and include the following URL encoded body:
+`grant_type=device_auth&account_id=...&device_id=...&secret=...` (replacing the `...` with the details from before).
+
+You must authenticate using the [fortniteIOSGameClient](https://github.com/MixV2/EpicResearch#authorization-header) token. If all has been performed correctly, you should be returned a valid access token.
+
+Side Note: If you want to access other clients with your device auth token, send a `POST` request to `https://account-public-service-prod.ol.epicgames.com/account/api/oauth/exchange` - this will return an exchange code that can be used to authenticate with.
+
+### 1.2.3 Account Public Service
   The base URL for this service is `https://account-public-service-prod.ol.epicgames.com`. Other URLs include `https://account-public-service-prod03.ol.epicgames.com`, `https://account-public-service-prod-m.ol.epicgames.com` and `https://account-public-service-stage.ol.epicgames.com`.
   
 An example service request used for getting an access token:
