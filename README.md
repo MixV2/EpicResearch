@@ -33,7 +33,6 @@ To create a set of device auth credentials, follow these steps:
   "accountId": "...",
   "secret": "...",
   "userAgent": "Any HTTP Client/0.1",
-  ...
 }
 ```
 Make sure to keep hold of the device id and secret values. These are essential for authenticating.
