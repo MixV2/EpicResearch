@@ -39,9 +39,7 @@ Make sure to keep hold of the device id and secret values. These are essential f
 Well done! You successfully created a set of device auth credentials and are now ready to authenticate with them!
 
 3. As you would when normally authenticating, send a `POST` request to `https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token` and include the following URL encoded body:
-`grant_type=device_auth&account_id=...&device_id=...&secret=...` (replacing the `...` with the details from before).
-
-You must authenticate using the [fortniteIOSGameClient](https://github.com/MixV2/EpicResearch#authorization-header) token. If all has been performed correctly, you should be returned a valid access token.
+`grant_type=device_auth&account_id=...&device_id=...&secret=...` (replacing the `...` with the details from before). You must authenticate using the [fortniteIOSGameClient](https://github.com/MixV2/EpicResearch#authorization-header) token. If all has been performed correctly, you should be returned a valid access token.
 
 Side Note: If you want to access other clients with your device auth token, send a `POST` request to `https://account-public-service-prod.ol.epicgames.com/account/api/oauth/exchange` - this will return an exchange code that can be used to authenticate with.
 
