@@ -104,7 +104,7 @@ grant_type=client_credentials&token_type=eg1
 ## 1.3 MCP
 In the words of Epic Games, Fortnite has a service called the MCP which players contact in order to retrieve game profiles, statistics, items, matchmaking info and more.
 
-  ### Profile IDs
+  ### 1.3.1 Profile IDs
   Profiles are seperate for each part of the game. For example, a STW profile will contain information about your STW heroes whilst a BR profile will contain information about your BR characters.
   
   - `athena`
@@ -118,7 +118,7 @@ In the words of Epic Games, Fortnite has a service called the MCP which players 
   - `outpost0`
   - `theater0`
 
-  ### Profile Commands
+  ### 1.3.2 Profile Commands
   Here is a list of commands that can be using to retreive information about a profile.
   All profile command based requests must be formatted as `https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/{accountId}/client/{command}?profileId={profileId}&rvn=-1&leanResponse={true/false}` and authenticated with a Fortnite client token.
  
