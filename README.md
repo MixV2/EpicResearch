@@ -102,7 +102,7 @@ grant_type=client_credentials&token_type=eg1
     - `token_to_token` (thanks Jaren)
 
 ## 1.3 MCP
-In the words of Epic Games, Fortnite has a service called the MCP which players contact in order to retrieve game profiles, statistics, items, matchmaking info and more.
+In the words of Epic Games, Fortnite has a service called the MCP which players contact in order to retrieve game profiles, statistics, items, matchmaking info and more. The MCP is also utilised on other titles by Epic Games such as [Unreal Tournament](https://www.epicgames.com/unrealtournament/) and [Battle Breakers](https://www.epicgames.com/battlebreakers/en-US/home).
 
   ### 1.3.1 Profile IDs
   Profiles are seperate for each part of the game. For example, a STW profile will contain information about your STW heroes whilst a BR profile will contain information about your BR characters.
