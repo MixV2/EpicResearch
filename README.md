@@ -86,6 +86,7 @@ grant_type=client_credentials&token_type=eg1
   | egstoreContentService | a472abd3e5ad4d90a0549213906dcf3f | Not Applicable |
   | creativeModeWebsite | 7de9f4b799d3470984093b218287dc72 | Not Applicable |
   | fortniteValkyrieGameClient | 3e13c5c57f594a578abe516eecb673fe | 530e316c337e409893c55ec44f22cd62 |
+  | wexPCGameClient | 3cf78cd3b00b439a8755a878b160c7ad | b383e0f4-f0cc-4d14-99e3-813c33fc1e9d |
 
   ### Grant Types
   - Grant types are used to determine what type of authentication request is being sent. The most used and useful grant types are `exchange_code`, `refresh_token` and `client_credentials`.
@@ -99,7 +100,7 @@ grant_type=client_credentials&token_type=eg1
     - `refresh_token`, takes a refresh token
     - `otp`, takes a two factor auth challenge
     - `client_credentials`
-    - `token_to_token` (thanks Jaren)
+    - `token_to_token`
 
 ## 1.3 MCP
 In the words of Epic Games, Fortnite has a service called the MCP which players contact in order to retrieve game profiles, statistics, items, matchmaking info and more. The MCP is also utilised on other titles by Epic Games such as [Unreal Tournament](https://www.epicgames.com/unrealtournament/) and [Battle Breakers](https://www.epicgames.com/battlebreakers/en-US/home).
