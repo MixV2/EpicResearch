@@ -10,6 +10,8 @@ A compilation of research dedicated to the internal workings of Epic's services.
     - [1.2.2 Device Auth](#122-device-auth)
     - [1.2.3 Account Public Service](#123-account-public-service)
   - [1.3 MCP](#13-mcp)
+    - [1.3.1 Profile IDs](#131-profile-ids)
+    - [1.3.2 Profile Commands](#132-profile-commands)
 
 ## 1.2 Authentication
 Authentication related requests use both `https://www.epicgames.com` and `https://account-public-service-prod.ol.epicgames.com`.
@@ -129,3 +131,8 @@ In the words of Epic Games, Fortnite has a service called the MCP which players 
  
   - `QueryProfile` - queries a profile
   - `PurchaseCatalogEntry` - purchases a catalog entry - `{"offerId":"...","purchaseQuantity":1,"currency":"MtxCurrency","currencySubType":"","expectedTotalPrice":...,"gameContext":""}`
+  
+  | Command | Function | Payload | Applies To |
+  | - | - | - | - |
+  | QueryProfile | Queries the provided profile | {} | fortnite, wex, ut |
+  | PurchaseCatalogEntry | Purchases an entry from the catalog | {"offerId":"...","purchaseQuantity":1,"currency":"MtxCurrency","currencySubType":"","expectedTotalPrice":...,"gameContext":""} | fortnite, wex |
