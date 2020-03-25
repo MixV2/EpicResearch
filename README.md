@@ -89,7 +89,8 @@ grant_type=client_credentials&token_type=eg1
   | wexPCGameClient | 3cf78cd3b00b439a8755a878b160c7ad | b383e0f4-f0cc-4d14-99e3-813c33fc1e9d |
   | Diesel - Dauntless | b070f20729f84693b5d621c904fc5bc2 | HG@XE&TGCxEJsgT#&\_p2]=aRo#~>=>+c6PhR)zXP |
   | publicClient | f2f868d1259e4b128e5b7e8a3732cb1a | Not Applicable |
-  | EOS SDK Auth Tool | 8f50327ba00d4ebeb81991ee04a42fc1 | Not Applicable |
+  | EOS SDK Auth Tool | 8f50327ba00d4ebeb81991ee04a42fc1 | 0b0d21c7-c195-4c75-abb0-00ebc36b60f5 |
+  | EOS SDK Auth Tool (gamedev) | dc1b76662b824a11a3de81b7aabc2169 | 3ed26ae3-c7fc-4fea-949a-dc6b7cee7b25 |
 
   ### 1.2.3.2 Grant Types
   - Grant types are used to determine what type of authentication request is being sent. The most used and useful grant types are `exchange_code`, `refresh_token` and `client_credentials`.
