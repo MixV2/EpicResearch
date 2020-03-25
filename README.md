@@ -87,7 +87,9 @@ grant_type=client_credentials&token_type=eg1
   | creativeModeWebsite | 7de9f4b799d3470984093b218287dc72 | Not Applicable |
   | fortniteValkyrieGameClient | 3e13c5c57f594a578abe516eecb673fe | 530e316c337e409893c55ec44f22cd62 |
   | wexPCGameClient | 3cf78cd3b00b439a8755a878b160c7ad | b383e0f4-f0cc-4d14-99e3-813c33fc1e9d |
-  | Diesel - Dauntless | b070f20729f84693b5d621c904fc5bc2 | HG@XE&TGCxEJsgT#&_p2]=aRo#~>=>+c6PhR)zXP |
+  | Diesel - Dauntless | b070f20729f84693b5d621c904fc5bc2 | HG@XE&TGCxEJsgT#&\_p2]=aRo#~>=>+c6PhR)zXP |
+  | publicClient | f2f868d1259e4b128e5b7e8a3732cb1a | Not Applicable |
+  
 
   ### 1.2.3.2 Grant Types
   - Grant types are used to determine what type of authentication request is being sent. The most used and useful grant types are `exchange_code`, `refresh_token` and `client_credentials`.
