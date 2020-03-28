@@ -26,7 +26,7 @@ TODO! For now, I recommend you check out these implementations on how to authent
 Device Auth is a great way to authenticate as you never have to input credentials again. This method of authentication is used by iOS and Android devices when playing Fortnite.
 
 To create a set of device auth credentials, follow these steps:
-1. Authenticate yourself with an [fortniteIOSGameClient](https://github.com/MixV2/EpicResearch#authorization-header) token with your preferred method of authentication.
+1. Authenticate yourself with an [fortniteIOSGameClient](https://github.com/MixV2/EpicResearch#1231-authorization-header) token with your preferred method of authentication.
 
 2. Call `https://account-public-service-prod.ol.epicgames.com/account/api/public/account/{accountId}/deviceAuth` with method `POST`. Your response should look something like:
 ```json
