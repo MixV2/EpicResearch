@@ -95,6 +95,7 @@ grant_type=client_credentials&token_type=eg1
   | EOS SDK Auth Tool (gamedev) | dc1b76662b824a11a3de81b7aabc2169 | 3ed26ae3-c7fc-4fea-949a-dc6b7cee7b25 |
   | orionLivePCGameClient | 1483ba7d6c0247828c26cc8a74a9a183 | Unknown |
   | ocean_web | 4b6c700c72c44e178b12070f2719af1a | Not Applicable |
+  | viper_web | 8df415b848c74affb682907405f7a52b | Not Applicable |
   
   ### 1.2.3.2 Grant Types
   - Grant types are used to determine what type of authentication request is being sent. The most used and useful grant types are `exchange_code`, `refresh_token` and `client_credentials`.
