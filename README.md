@@ -62,6 +62,7 @@ grant_type=client_credentials&token_type=eg1
   ### 1.2.3.1 Authorization Header
   For the first service request, `/account/api/oauth/token`, requires an `Authorization` header to determine which game an authentication token should be generate for. The value passed in the header is formatted as `client_id:secret` and then encoded in Base64.
   
+  ### 1.2.3.2 Clients
   | Client Name | Client ID | Secret |
   | - | - | - |
   | fortnitePCGameClient | ec684b8c687f479fadea3cb2ad83f5c6 | e1f31c211f28413186262d37a13fc84d |
@@ -98,7 +99,7 @@ grant_type=client_credentials&token_type=eg1
   | viper_web | 8df415b848c74affb682907405f7a52b | Not Applicable |
   | ue4answerhub | c4c02c7c99e94ed9870a9dbeafab2c3f | Not Applicable |
   
-  ### 1.2.3.2 Grant Types
+  ### 1.2.3.3 Grant Types
   - Grant types are used to determine what type of authentication request is being sent. The most used and useful grant types are `exchange_code`, `refresh_token` and `client_credentials`.
   
   - List of grant types:
