@@ -1,7 +1,7 @@
 # OAuth Clients
-Every application (e.g. game, website) that utilises Epic's official services is issued an OAuth client that is used to identify requests sent to Epic, as well as to set boundaries to what a certain application can access.    
+Every application (e.g. game, website) that utilises Epic's official services is issued an auth client that is used to identify requests sent to Epic, as well as to set boundaries to what a certain application can access.    
 
-Each OAuth client is issued a client ID as well as a secret.
+Each auth client is issued a client ID as well as a secret.
 
 ## Scopes
 As of now, Epic have not released their OAuth client service to the public, so all current clients have access to all scopes, and more. Here are the scopes that will be available when it is released:
@@ -10,7 +10,7 @@ As of now, Epic have not released their OAuth client service to the public, so a
 - List of friends
 - Ability to update presence
 
-## List of OAuth Clients
+## List of Auth Clients
   | Client Name | Client ID | Secret |
   | - | - | - |
   | fortnitePCGameClient | ec684b8c687f479fadea3cb2ad83f5c6 | e1f31c211f28413186262d37a13fc84d |
@@ -46,3 +46,4 @@ As of now, Epic have not released their OAuth client service to the public, so a
   | ocean_web | 4b6c700c72c44e178b12070f2719af1a | Not Applicable |
   | viper_web | 8df415b848c74affb682907405f7a52b | Not Applicable |
   | ue4answerhub | c4c02c7c99e94ed9870a9dbeafab2c3f | Not Applicable |
+  | battlebreakers_web | 8e873617d81d4caf89bae28a4b74bbfe | Not Applicable |
