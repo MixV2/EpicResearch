@@ -1,7 +1,7 @@
 # Prerequisites
-It is recommended you read through this before getting started. These applications will greatly help with accessing REST APIs in general.
+It is recommended you read through this before getting started. These tools will greatly help with accessing REST APIs in general.
 
-## Programs
+## Tools
 - **A REST API client**  
   Used to send HTTP requests and view the responses
   - [Insomnia](https://insomnia.rest/)
