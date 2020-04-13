@@ -13,8 +13,8 @@ Games on the PC such as [Fortnite](https://fortnite.com) and [Battle Breakers](h
 - Provides full access to an account
 
 ## Obtaining an Exchange Code
-- Open `https://www.epicgames.com/id/login?redirectUrl=https%3A%2F%2Fwww.epicgames.com%2Fid%2Fapi%2Fexchange` in a browser
-- Send a `POST` request to `https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token`:    
+- Open https://www.epicgames.com/id/login?redirectUrl=https%3A%2F%2Fwww.epicgames.com%2Fid%2Fapi%2Fexchange in a browser
+- Send a `POST` request to https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token:    
   Required headers:
   - `Content-Type`: application/x-www-form-urlencoded
   - `Authorization`: clientId:secret (encoded in Base64)    
