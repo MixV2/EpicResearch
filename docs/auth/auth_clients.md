@@ -1,4 +1,4 @@
-# OAuth Clients
+# Auth Clients
 Every application (e.g. game, website) that utilises Epic's official services is issued an auth client that is used to identify requests sent to Epic, as well as to set boundaries to what a certain application can access.    
 
 Each auth client is issued a client ID as well as a secret.
