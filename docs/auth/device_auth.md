@@ -1,1 +1,1 @@
-# Authenticating with Device Auth
+# Authenticating by Device Auth
