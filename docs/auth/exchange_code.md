@@ -10,7 +10,7 @@ Games on the PC such as [Fortnite](https://fortnite.com) and [Battle Breakers](h
 
 ## Disadvantages
 - Difficult to get programmatically due to captcha
-- Provides full access to an account
+- Equivalent to that of a username and password
 
 ## Obtaining an Exchange Code
 - Open https://www.epicgames.com/id/login?redirectUrl=https%3A%2F%2Fwww.epicgames.com%2Fid%2Fapi%2Fexchange in a browser
