@@ -40,7 +40,7 @@ Supported MCPs: `fortnite`
 - `itemToSlot`: the internal ID of the item (e.g. `AthenaCharacter:cid_242_athena_commando_f_bullseye`)
 - `slotIndex`: location of where the item should be placed in the loadout
 - `variantUpdates`: selected variants for the item
-  - If the item has multiple styles, then you will need to specify which style has been equipped - here's an example:
+  - If the item has multiple styles, then you will need to specify which style has been equipped - for example:
     ```json
     {
         "channel": "Material",
