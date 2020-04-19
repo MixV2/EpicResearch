@@ -17,26 +17,24 @@ Supported MCPs: `fortnite`
 
 ## Parameters
 - `slotName`: type of item
+    - Character
+    - Dance
+    - Glider
+    - Pickaxe
+    - Hat
+    - Backpack
+    - LoadingScreen
+    - BattleBus
+    - VehicleDecoration
+    - CallingCard
+    - MapMarker
+    - ConsumableEmote
+    - VictoryPose
+    - SkyDiveContrail
+    - MusicPack
+    - ItemWrap
+    - PetSkin
+    - Charm
 - `itemToSlot`: GUID of item in inventory (e.g. `2099ae21-e941-44b6-aecd-bcf67abd442a`)
 - `indexWithinSlot`: location of where the item should be placed in the loadout
 - `variantUpdates`: selected variants for the item
-
-### Item Types
-- Character
-- Dance
-- Glider
-- Pickaxe
-- Hat
-- Backpack
-- LoadingScreen
-- BattleBus
-- VehicleDecoration
-- CallingCard
-- MapMarker
-- ConsumableEmote
-- VictoryPose
-- SkyDiveContrail
-- MusicPack
-- ItemWrap
-- PetSkin
-- Charm
