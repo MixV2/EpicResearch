@@ -8,15 +8,17 @@ Supported MCPs: `fortnite`
 ## Payload
 ```json
 {
-    "slotName": "",
+    "lockerItem": "",
+    "category": "",
     "itemToSlot": "",
-    "indexWithinSlot": 0,
+    "slotIndex": 0,
     "variantUpdates": []
 }
 ```
 
 ## Parameters
-- `slotName`: type of item
+- `lockerItem`: GUID of item in inventory (e.g. `2099ae21-e941-44b6-aecd-bcf67abd442a`)
+- `category`: type of item
     - Character
     - Dance
     - Glider
@@ -35,6 +37,14 @@ Supported MCPs: `fortnite`
     - ItemWrap
     - PetSkin
     - Charm
-- `itemToSlot`: GUID of item in inventory (e.g. `2099ae21-e941-44b6-aecd-bcf67abd442a`)
-- `indexWithinSlot`: location of where the item should be placed in the loadout
+- `itemToSlot`: the internal ID of the item (e.g. `AthenaCharacter:cid_242_athena_commando_f_bullseye`)
+- `slotIndex`: location of where the item should be placed in the loadout
 - `variantUpdates`: selected variants for the item
+  - If the item has multiple styles, then you will need to specify which style has been equipped - here's an example:
+    ```json
+    {
+        "channel": "Material",
+        "active": "Mat1",
+        "owned": []
+    }
+    ```
