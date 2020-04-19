@@ -3,7 +3,7 @@ Purchases an item from the item shop.
 
 ## Attributes
 Compatible Profiles: `athena`  
-Supported MCPs: `fortnite`
+Supported MCPs: `fortnite, wex`
 
 ## Payload
 ```json
