@@ -26,7 +26,7 @@ Unlike exchange codes, a device auth is a set of three values that are needed to
 - Send a `POST` request to https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token:    
   Required headers:
   - `Content-Type`: application/x-www-form-urlencoded
-  - `Authorization`: basic clientId:secret (encoded in Base64, must be the same client that was used to generate device auth)    
+  - `Authorization`: basic `clientId:secret` (encoded in Base64, must be the same client that was used to generate device auth)    
   
   Body:
   - `grant_type`: device_auth
