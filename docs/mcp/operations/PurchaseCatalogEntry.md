@@ -16,8 +16,9 @@ Supported MCPs: `fortnite`
 }
 ```
 
-`offerId`: Offer ID of the item that is being purchased  
-`purchaseQuantity`: Amount of item(s) being purchased  
-`currency`: Type of currency the transaction is being paid in  
-`expectedTotalPrice`: Price of the item  
-`gameContext`: Only used for analytics and can be ignored  
+## Parameters
+- `offerId`: offer ID of the item that is being purchased  
+- `purchaseQuantity`: amount of item(s) being purchased  
+- `currency`: type of currency the transaction is being paid in  
+- `expectedTotalPrice`: price of the item  
+- `gameContext`: only used for analytics and can be ignored  
