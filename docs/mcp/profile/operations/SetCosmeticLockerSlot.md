@@ -1,4 +1,4 @@
-# EquipBattleRoyaleCustomization
+# SetCosmeticLockerSlot
 Equip an item from the Battle Royale locker.
 
 ## Attributes
