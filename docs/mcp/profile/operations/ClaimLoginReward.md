@@ -1,5 +1,5 @@
 # ClaimLoginReward
-Claim a daily login reward.
+Claims a daily login reward.
 
 ## Attributes
 Compatible Profiles: `campaign`, `profile0`  
