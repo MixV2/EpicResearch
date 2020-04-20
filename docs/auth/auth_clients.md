@@ -47,3 +47,4 @@ As of now, Epic have not released their OAuth client service to the public, so a
   | viper_web | 8df415b848c74affb682907405f7a52b | Not Applicable |
   | ue4answerhub | c4c02c7c99e94ed9870a9dbeafab2c3f | Not Applicable |
   | battlebreakers_web | 8e873617d81d4caf89bae28a4b74bbfe | Not Applicable |
+  | unrealComClient | 43e2dea89b054198a703f6199bee6d5b | Not Applicable |
