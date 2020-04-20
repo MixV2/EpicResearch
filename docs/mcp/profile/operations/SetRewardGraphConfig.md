@@ -2,7 +2,7 @@
 Update a reward graph config in an inventory.
 
 ## Attributes
-Compatiable Profiles: `athena`  
+Compatible Profiles: `athena`  
 Supported MCPs: `fortnite`
 
 ## Payload
