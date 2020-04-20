@@ -2,7 +2,7 @@
 Mark an inventory item as seen.
 
 ## Attributes
-Compatiable Profiles: `athena`  
+Compatible Profiles: `athena`  
 Supported MCPs: `fortnite`
 
 ## Payload
