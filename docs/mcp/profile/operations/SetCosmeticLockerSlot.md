@@ -2,7 +2,7 @@
 Equip an item from the Battle Royale locker.
 
 ## Attributes
-Compatiable Profiles: `athena`  
+Compatible Profiles: `athena`  
 Supported MCPs: `fortnite`
 
 ## Payload
