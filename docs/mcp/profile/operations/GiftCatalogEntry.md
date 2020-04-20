@@ -27,9 +27,9 @@ Supported MCPs: `fortnite`, `wex`
 - `gameContext`: only used for analytics and can be ignored  
 - `receiverAccountIds`: array with the ids of the accounts that are being gifted
 - `giftWrapTemplateId`: the wrap of the gift; can be:
-    * `"GiftBox:gb_default"`
-    * `"GiftBox:gb_giftwrap1"`
-    * `"GiftBox:gb_giftwrap2"`
-    * `"GiftBox:gb_giftwrap3"`
-    * `"GiftBox:gb_giftwrap4"`
-- `personalMessage`: the gift's message; you shouldn't use this at the moment because the gift messages are disabled in-game, so you can get banned
+    - GiftBox:gb_default
+    - GiftBox:gb_giftwrap1
+    - GiftBox:gb_giftwrap2
+    - GiftBox:gb_giftwrap3
+    - GiftBox:gb_giftwrap4
+- `personalMessage`: the gift's message; not currently supported in-game so use at your own risk
