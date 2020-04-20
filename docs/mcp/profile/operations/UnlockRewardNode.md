@@ -2,7 +2,7 @@
 Unlocks a reward by a node ID. Used in [Winterfest 2019](https://www.epicgames.com/fortnite/en-US/news/winterfest-2019-begins?sessionInvalidated=true) to unlock presents in-game and is also used to unlock styles for [Gear Specialist Maya](https://fnbr.co/outfit/gear-specialist-maya).
 
 ## Attributes
-Compatiable Profiles: `athena`
+Compatiable Profiles: `athena`  
 Supported MCPs: `fortnite`
 
 ## Payload
