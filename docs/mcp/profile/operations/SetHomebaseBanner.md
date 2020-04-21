@@ -12,3 +12,7 @@ Supported MCPs: `fortnite`
     "homebaseBannerIconId": ""
 }
 ```
+
+## Parameters
+- `homebaseBannerColorId`: ID of the colour to use for the banner
+- `homebaseBannerIconId`: ID of the icon to use for the banner
