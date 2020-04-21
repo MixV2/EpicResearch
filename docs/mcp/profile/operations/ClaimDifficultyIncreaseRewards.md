@@ -1,5 +1,5 @@
 # ClaimDifficultyIncreaseRewards
-Claims any outstanding rewards for "DifficultyIncrease" (not sure what that is, most likely to do with STW).
+Claims the difficulty increase reward if you increased the difficulty on the last STW mission you played.
 
 ## Attributes
 Compatible Profiles: `campaign`  
