@@ -1,5 +1,5 @@
 # RespecAlteration
-Not sure what this operation does. It is used for Fortnite's campaign mode, though.
+Replaces a perk.
 
 ## Attributes
 Compatible Profiles: `campaign`  
@@ -8,11 +8,13 @@ Supported MCPs: `fortnite`
 ## Payload
 ```json
 {
-    "alterationId": "",
-    "targetItemId": ""
+    "targetItemId": "",
+    "alterationSlot": "",
+    "alterationId": ""
 }
 ```
 
 ## Parameters
-- `alterationId`: ID of alteration
-- `targetItemId`: ID of item
+- `targetItemId`: Item ID of the item that you want one of its perks replaced.
+- `alterationSlot`: Index of the perk within the `alterations` field inside the `attributes` object. Starts at 0.
+- `alterationId`: Template ID of the perk to replace to.
