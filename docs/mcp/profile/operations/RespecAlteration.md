@@ -1,5 +1,5 @@
 # RespecAlteration
-Replaces a perk.
+Replaces a perk on a campaign item.
 
 ## Attributes
 Compatible Profiles: `campaign`  
