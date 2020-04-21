@@ -6,3 +6,6 @@ If you already have something documented and would like it added to the repo, fe
 
 ## Quick Links
 - [List of Auth Clients](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/auth_clients.md)
+
+## Glitch Mirror (Made by [youngchief btw ツ](https://discord.gg/myuyJqH))
+[~mixv2-epicresearch-mirror](https://glitch.com/edit/#!/mixv2-epicresearch-mirror)
