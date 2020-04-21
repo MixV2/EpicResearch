@@ -2,7 +2,7 @@
 Set the current MTX platform used for purchases in the item shop.
 
 ## Attributes
-Compatible Profiles: `athena`  
+Compatible Profiles: `common_core`  
 Supported MCPs: `fortnite`
 
 ## Payload
