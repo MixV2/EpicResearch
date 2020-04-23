@@ -6,3 +6,6 @@ If you already have something documented and would like it added to the repo, fe
 
 ## Quick Links
 - [List of Auth Clients](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/auth_clients.md)
+
+## Getting Started
+- [Sending MCP requests](https://github.com/MixV2/EpicResearch/blob/master/docs/mcp/profile/operation_request.md)
