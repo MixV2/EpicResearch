@@ -13,4 +13,4 @@ Supported MCPs: `fortnite`
 ```
 
 ## Parameters
-- `bReceiveGifts`: determines whether a user should receive gifts
+- `bReceiveGifts`: determines whether a user can receive gifts
