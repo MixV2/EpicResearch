@@ -27,8 +27,8 @@ As of now, Epic have not released their OAuth client service to the public, so a
   | wexIOSGameClient | ec813099a59f48d4a338f1901c1609db | 72f6db62-0e3e-4439-97df-ee21f7b0ae94 |
   | utDedicatedServerEpicTrusted | ad8def9ae6b84360b6c9b358aba06262 | Unknown |
   | utDedicatedServerEpicHosted | e0aca23dfb7348d6bad648bbe175a6e6 | Unknown |
-  | Google (YouTube) | fa39ae1203b5438280f515f38a50f08e | 1564071012329 |
-  | merch-sso (Retail Row) | 9427129c087d4049886d3b47349d1aad | 95ba71fc75198ebce22b69dc89e5b27adcf78ec1 |
+  | Google (YouTube) | fa39ae1203b5438280f515f38a50f08e | Not Applicable |
+  | merch-sso (Retail Row) | 9427129c087d4049886d3b47349d1aad | Not Applicable |
   | SF Community | b31a9e178ab84b21ad7435a53e4da4af | Not Applicable |
   | udnClient | bc742d26f8314469aa997373f39c876e | Not Applicable |
   | dieselWebsite | 875a3b57d3a640a6b7f9b4e883463ab4 | Not Applicable |
