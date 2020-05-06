@@ -4,6 +4,10 @@ Research about Epic's non-documented API. All the documentation can be found wit
 Want something documented? Open an [issue](https://github.com/MixV2/EpicResearch/issues) and specify what you would like added and I'll try to get it added.  
 If you already have something documented and would like it added to the repo, feel free to open a [pull request](https://github.com/MixV2/EpicResearch/pulls).
 
-## Quick Links
-- [List of Auth Clients](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/auth_clients.md)
-- [Sending MCP requests](https://github.com/MixV2/EpicResearch/blob/master/docs/mcp/profile/operation_request.md)
+## Table of Contents
+- [MCP](https://github.com/MixV2/EpicResearch/tree/master/docs/mcp)
+  - [List of MCPs](https://github.com/MixV2/EpicResearch/blob/master/docs/mcp/mcp_list.md)
+  - [Profile](https://github.com/MixV2/EpicResearch/tree/master/docs/mcp/profile)
+    - [Profile Operations](https://github.com/MixV2/EpicResearch/blob/master/docs/mcp/profile/profile_operations.md)
+    - [Operation Request](https://github.com/MixV2/EpicResearch/blob/master/docs/mcp/profile/operation_request.md)
+    - [List of Operations](https://github.com/MixV2/EpicResearch/tree/master/docs/mcp/profile/operations)
