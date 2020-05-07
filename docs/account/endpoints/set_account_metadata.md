@@ -1,5 +1,5 @@
 # Set Account Metadata
-This endpoint allows you to get the metadata of an account.  
+This endpoint allows you to set the metadata of an account.  
 In this case, metadata is only really used to get certain settings on account such as `LAUNCHER_SSO_OFF`.
 
 ## Request
