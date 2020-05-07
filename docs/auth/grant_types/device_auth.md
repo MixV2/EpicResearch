@@ -14,7 +14,7 @@ Unlike exchange codes, a device auth is a set of three values that are needed to
 - Can only generate access tokens for the client that the device auth was issued to
 - To generate a device auth, you must already be authenticated
 
-## Obtaining Device Auth
+## Method
 - Make sure you have an access token that is valid. If not, I suggest [getting one through an exchange code](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/exchange_code.md) and using the `fortniteIOSGameClient` client
 
 - Send a `POST` request to https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/deviceAuth (replacing `:accountId` with your own):  
