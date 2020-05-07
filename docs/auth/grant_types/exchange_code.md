@@ -12,7 +12,7 @@ Games on the PC such as [Fortnite](https://fortnite.com) and [Battle Breakers](h
 - Difficult to get programmatically due to captcha
 - Expires after 5 minutes
 
-## Obtaining an Exchange Code
+## Method
 - Open https://www.epicgames.com/id/login?redirectUrl=https%3A%2F%2Fwww.epicgames.com%2Fid%2Fapi%2Fexchange in a browser
 - Send a `POST` request to https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token:    
   Required headers:
