@@ -20,4 +20,5 @@ Not very useful as of now due to not having the PSN/XBOX/Switch Fortnite clients
   - xbl
   - google
   - facebook
+  - internal
 - `external_auth_token`: external auth token, probably issued by PSN/XBL/whatever service provider (not too sure)
