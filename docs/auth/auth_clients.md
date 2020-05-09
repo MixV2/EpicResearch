@@ -49,3 +49,4 @@ As of now, Epic have not released their OAuth client service to the public, so a
   | battlebreakers_web | 8e873617d81d4caf89bae28a4b74bbfe | Not Applicable |
   | unrealComClient | 43e2dea89b054198a703f6199bee6d5b | Not Applicable |
   | launcherWebClient | 24a1bff3f90749efbfcbc576c626a282 | Not Applicable |
+  | epicgamesNodeWebsiteClient | 5a6fcd3b82e04f8fa0065253835c5221 | Not Applicable |
