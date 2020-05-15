@@ -51,4 +51,5 @@ As of now, Epic have not released their OAuth client service to the public, so a
   | launcherWebClient | 24a1bff3f90749efbfcbc576c626a282 | Not Applicable |
   | epicgamesNodeWebsiteClient | 5a6fcd3b82e04f8fa0065253835c5221 | Not Applicable |
   | utcomClient | f0b883ba7d3646bba4aa11bf1d71c071 | Not Applicable |
-  | devportalWebsite | 1e2da690d4914a72a26be4d09862c559 | Not Applicable |
+  | devportalWebsite  | 1e2da690d4914a72a26be4d09862c559 | Not Applicable |
+  | unrealNodeComClient | 932e595bedb643d9ba56d3e1089a5c4b | Not Applicable |
