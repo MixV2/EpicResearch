@@ -57,3 +57,4 @@ As of now, Epic have not released their OAuth client service to the public, so a
   | fortniteTrackerFortniteClient | d7c956d5f1de46088dc2f5b8fccae940 | Unknown |
   | launcherPaymentClient2 | 8e889dadbfaf4145b3a806f51d1e3fee | 2c6040b846404160abf5229c565d6ef7 |
   | graphqlWebsite | 319e1527d0be4457a1067829fc0ad86e | Not Applicable |
+  | Sid Meier's Civilization VI | 0a4056c60cfd4e1f9f28795e529cd0c3 | MZ8+TE8PHc9+n7WbSYMJ8QlQU4oHPUlVXRO5D6toxAw |
