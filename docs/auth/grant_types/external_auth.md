@@ -12,9 +12,11 @@ Not very useful as of now due to not having the PSN/XBOX/Switch Fortnite clients
   - `grant_type`: external_auth
   - `external_auth_type`: ...
   - `external_auth_token`: ...
+  - `nonce`?: ...
   
 ## Parameters
 - `external_auth_type`: an external auth type
+  - **epicgames_access_token**
   - psn
   - nintendo
   - xbl
