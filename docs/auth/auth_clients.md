@@ -55,3 +55,4 @@ As of now, Epic have not released their OAuth client service to the public, so a
   | unrealNodeComClient | 932e595bedb643d9ba56d3e1089a5c4b | Not Applicable |
   | Remedy Entertainment 505 Uploader Client  | 8522af44af194836a532884e84d2b6e2 | 9dc959b5-0fb6-45aa-a08c-96c539d9b85e |
   | fortniteTrackerFortniteClient | d7c956d5f1de46088dc2f5b8fccae940 | Unknown |
+  | launcherPaymentClient2 | 8e889dadbfaf4145b3a806f51d1e3fee | 2c6040b846404160abf5229c565d6ef7 |
