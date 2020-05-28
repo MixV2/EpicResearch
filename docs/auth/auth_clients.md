@@ -60,3 +60,4 @@ As of now, Epic have not released their OAuth client service to the public, so a
   | Sid Meier's Civilization VI | 0a4056c60cfd4e1f9f28795e529cd0c3 | MZ8+TE8PHc9+n7WbSYMJ8QlQU4oHPUlVXRO5D6toxAw |
   | Satisfactory | 02612880aa774fb28e3741d3e01501fd | 7ZP]vm+i.uoetw@RxqRXpod_RNyjPC-%GM#ac~Pc |
   | publishingWebsiteClient | ba517836005c460eb18d368fa35eb002 | Not Applicable |
+  | Bevy | c1b81c9ba24e4b6ab3e99ad00320ffd2 | Not Applicable |
