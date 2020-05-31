@@ -3,7 +3,7 @@ An exchange code is a one-time code that can be used to generate an access token
 
 Games on the PC such as [Fortnite](https://fortnite.com) and [Battle Breakers](https://www.epicgames.com/battlebreakers/en-US/home) use this to identify who is playing the game.
 
-**Note: As of 30/05/20, Epic have removed the 'id/api/exchange' endpoint, meaning that it is not possible to get an exchange code through a browser anymore.
+**Note: As of 30/05/20, Epic have removed the 'id/api/exchange' endpoint, meaning that it is not possible to get an exchange code through a browser anymore.**
 
 ## Advantages
 - Most clients accept this grant type
