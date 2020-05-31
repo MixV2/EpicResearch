@@ -3,17 +3,19 @@ An exchange code is a one-time code that can be used to generate an access token
 
 Games on the PC such as [Fortnite](https://fortnite.com) and [Battle Breakers](https://www.epicgames.com/battlebreakers/en-US/home) use this to identify who is playing the game.
 
+**Note: As of 30/05/20, Epic have removed the 'id/api/exchange' endpoint, meaning that it is not possible to get an exchange code through a browser anymore.
+
 ## Advantages
-- Very easy to get from a browser
 - Most clients accept this grant type
 - Does not reveal sensitive information such as email or password
 
 ## Disadvantages
 - Difficult to get programmatically due to captcha
 - Expires after 5 minutes
+- Cannot get through browser
 
 ## Method
-- Open https://www.epicgames.com/id/login?redirectUrl=https%3A%2F%2Fwww.epicgames.com%2Fid%2Fapi%2Fexchange in a browser
+- Send a `POST` request to https://epicgames.com/id/api/exchange/generate
 - Send a `POST` request to https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token:    
   Required headers:
   - `Content-Type`: application/x-www-form-urlencoded
