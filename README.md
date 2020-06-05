@@ -4,6 +4,9 @@ Research about Epic's non-documented API. All the documentation can be found wit
 Want something documented? Open an [issue](https://github.com/MixV2/EpicResearch/issues) and specify what you would like added and I'll try to get it added.  
 If you already have something documented and would like it added to the repo, feel free to open a [pull request](https://github.com/MixV2/EpicResearch/pulls).
 
+## Quick Start
+If you are looking to get authenticated quickly to use Epic's services, check out [this guide](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/grant_types/authorization_code.md)!
+
 ## Table of Contents
 - [MCP](https://github.com/MixV2/EpicResearch/tree/master/docs/mcp)
   - [List of MCPs](https://github.com/MixV2/EpicResearch/blob/master/docs/mcp/mcp_list.md)
