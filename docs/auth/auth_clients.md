@@ -62,3 +62,4 @@ As of now, Epic have not released their OAuth client service to the public, so a
   | publishingWebsiteClient | ba517836005c460eb18d368fa35eb002 | Not Applicable |
   | Bevy | c1b81c9ba24e4b6ab3e99ad00320ffd2 | Not Applicable |
   | Diesel - Dodo | 9a06a69c0c8a458caab330d48badb877 | be4d1tppwi9eskufqmyz4x4hf0ndubqn0ru1zs9tkmhf |
+  | fortniteEsportsComClient | 0fa561666d6e41cb95b2a357a8b4a6f3 | Unknown |
