@@ -27,39 +27,39 @@ As of now, Epic have not released their OAuth client service to the public, so a
   | wexIOSGameClient | ec813099a59f48d4a338f1901c1609db | 72f6db62-0e3e-4439-97df-ee21f7b0ae94 |
   | utDedicatedServerEpicTrusted | ad8def9ae6b84360b6c9b358aba06262 | Unknown |
   | utDedicatedServerEpicHosted | e0aca23dfb7348d6bad648bbe175a6e6 | Unknown |
-  | Google (YouTube) | fa39ae1203b5438280f515f38a50f08e | Not Applicable |
-  | merch-sso (Retail Row) | 9427129c087d4049886d3b47349d1aad | Not Applicable |
-  | SF Community | b31a9e178ab84b21ad7435a53e4da4af | Not Applicable |
-  | udnClient | bc742d26f8314469aa997373f39c876e | Not Applicable |
-  | dieselWebsite | 875a3b57d3a640a6b7f9b4e883463ab4 | Not Applicable |
-  | fortniteComClient | cd2b7c19c9734a2ab98dc251868d7724 | Not Applicable |
-  | affiliateWeb | 4d9a4e9e568a40faa77b9757b4fac210 | Not Applicable |
-  | egstoreContentService | a472abd3e5ad4d90a0549213906dcf3f | Not Applicable |
-  | creativeModeWebsite | 7de9f4b799d3470984093b218287dc72 | Not Applicable |
+  | Google (YouTube) | fa39ae1203b5438280f515f38a50f08e | Unknown |
+  | merch-sso (Retail Row) | 9427129c087d4049886d3b47349d1aad | Unknown |
+  | SF Community | b31a9e178ab84b21ad7435a53e4da4af | Unknown |
+  | udnClient | bc742d26f8314469aa997373f39c876e | Unknown |
+  | dieselWebsite | 875a3b57d3a640a6b7f9b4e883463ab4 | Unknown |
+  | fortniteComClient | cd2b7c19c9734a2ab98dc251868d7724 | Unknown |
+  | affiliateWeb | 4d9a4e9e568a40faa77b9757b4fac210 | Unknown |
+  | egstoreContentService | a472abd3e5ad4d90a0549213906dcf3f | Unknown |
+  | creativeModeWebsite | 7de9f4b799d3470984093b218287dc72 | Unknown |
   | fortniteValkyrieGameClient | 3e13c5c57f594a578abe516eecb673fe | 530e316c337e409893c55ec44f22cd62 |
   | wexPCGameClient | 3cf78cd3b00b439a8755a878b160c7ad | b383e0f4-f0cc-4d14-99e3-813c33fc1e9d |
   | Diesel - Dauntless | b070f20729f84693b5d621c904fc5bc2 | HG@XE&TGCxEJsgT#&\_p2]=aRo#~>=>+c6PhR)zXP |
-  | publicClient | f2f868d1259e4b128e5b7e8a3732cb1a | Not Applicable |
+  | publicClient | f2f868d1259e4b128e5b7e8a3732cb1a | Unknown |
   | EOS SDK Auth Tool | 8f50327ba00d4ebeb81991ee04a42fc1 | 0b0d21c7-c195-4c75-abb0-00ebc36b60f5 |
   | EOS SDK Auth Tool (gamedev) | dc1b76662b824a11a3de81b7aabc2169 | 3ed26ae3-c7fc-4fea-949a-dc6b7cee7b25 |
   | orionLivePCGameClient | 1483ba7d6c0247828c26cc8a74a9a183 | Unknown |
-  | ocean_web | 4b6c700c72c44e178b12070f2719af1a | Not Applicable |
-  | viper_web | 8df415b848c74affb682907405f7a52b | Not Applicable |
-  | ue4answerhub | c4c02c7c99e94ed9870a9dbeafab2c3f | Not Applicable |
-  | battlebreakers_web | 8e873617d81d4caf89bae28a4b74bbfe | Not Applicable |
-  | unrealComClient | 43e2dea89b054198a703f6199bee6d5b | Not Applicable |
-  | launcherWebClient | 24a1bff3f90749efbfcbc576c626a282 | Not Applicable |
-  | epicgamesNodeWebsiteClient | 5a6fcd3b82e04f8fa0065253835c5221 | Not Applicable |
-  | utcomClient | f0b883ba7d3646bba4aa11bf1d71c071 | Not Applicable |
-  | devportalWebsite  | 1e2da690d4914a72a26be4d09862c559 | Not Applicable |
-  | unrealNodeComClient | 932e595bedb643d9ba56d3e1089a5c4b | Not Applicable |
+  | ocean_web | 4b6c700c72c44e178b12070f2719af1a | Unknown |
+  | viper_web | 8df415b848c74affb682907405f7a52b | Unknown |
+  | ue4answerhub | c4c02c7c99e94ed9870a9dbeafab2c3f | Unknown |
+  | battlebreakers_web | 8e873617d81d4caf89bae28a4b74bbfe | Unknown |
+  | unrealComClient | 43e2dea89b054198a703f6199bee6d5b | Unknown |
+  | launcherWebClient | 24a1bff3f90749efbfcbc576c626a282 | Unknown |
+  | epicgamesNodeWebsiteClient | 5a6fcd3b82e04f8fa0065253835c5221 | Unknown |
+  | utcomClient | f0b883ba7d3646bba4aa11bf1d71c071 | Unknown |
+  | devportalWebsite  | 1e2da690d4914a72a26be4d09862c559 | Unknown |
+  | unrealNodeComClient | 932e595bedb643d9ba56d3e1089a5c4b | Unknown |
   | Remedy Entertainment 505 Uploader Client  | 8522af44af194836a532884e84d2b6e2 | 9dc959b5-0fb6-45aa-a08c-96c539d9b85e |
   | fortniteTrackerFortniteClient | d7c956d5f1de46088dc2f5b8fccae940 | Unknown |
   | launcherPaymentClient2 | 8e889dadbfaf4145b3a806f51d1e3fee | 2c6040b846404160abf5229c565d6ef7 |
-  | graphqlWebsite | 319e1527d0be4457a1067829fc0ad86e | Not Applicable |
+  | graphqlWebsite | 319e1527d0be4457a1067829fc0ad86e | Unknown |
   | Sid Meier's Civilization VI | 0a4056c60cfd4e1f9f28795e529cd0c3 | MZ8+TE8PHc9+n7WbSYMJ8QlQU4oHPUlVXRO5D6toxAw |
   | Satisfactory | 02612880aa774fb28e3741d3e01501fd | 7ZP]vm+i.uoetw@RxqRXpod_RNyjPC-%GM#ac~Pc |
-  | publishingWebsiteClient | ba517836005c460eb18d368fa35eb002 | Not Applicable |
-  | Bevy | c1b81c9ba24e4b6ab3e99ad00320ffd2 | Not Applicable |
+  | publishingWebsiteClient | ba517836005c460eb18d368fa35eb002 | Unknown |
+  | Bevy | c1b81c9ba24e4b6ab3e99ad00320ffd2 | Unknown |
   | Diesel - Dodo | 9a06a69c0c8a458caab330d48badb877 | be4d1tppwi9eskufqmyz4x4hf0ndubqn0ru1zs9tkmhf |
   | fortniteEsportsComClient | 0fa561666d6e41cb95b2a357a8b4a6f3 | Unknown |
