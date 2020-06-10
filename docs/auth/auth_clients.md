@@ -17,6 +17,7 @@ As of now, Epic have not released their OAuth client service to the public, so a
   | fortniteIOSGameClient | 3446cd72694c4a4485d81b77adbb2141 | 9209d4a5e25a457fb9b07489d313b41a |
   | fortniteAndroidGameClient | 3f69e56c7649492c8cc29f1af08a8a12 | b51ee9cb12234f50a69efa67ef53812e |
   | fortniteCNGameClient | efe3cbb938804c74b20e109d0efc1548 | 6e31bdbae6a44f258474733db74f39ba |
+  | fortniteSwitchGameClient | 5229dcd3ac3845208b496649092f251b | Unknown |
   | KairosPC | 5b685653b9904c1d92495ee8859dcb00 | 7Q2mcmneyuvPmoRYfwM7gfErA6iUjhXr |
   | Kairos iOS | 61d2f70175e84a6bba80a5089e597e1c | FbiZv3wbiKpvVKrAeMxiR6WhxZWVbrvA |
   | Kairos Android | 0716a69cb8b2422fbb2a8b0879501471 | cGthdfG68tyE7M3ZHMu3sXUBwqhibKFp |
@@ -28,7 +29,7 @@ As of now, Epic have not released their OAuth client service to the public, so a
   | utDedicatedServerEpicTrusted | ad8def9ae6b84360b6c9b358aba06262 | Unknown |
   | utDedicatedServerEpicHosted | e0aca23dfb7348d6bad648bbe175a6e6 | Unknown |
   | Google (YouTube) | fa39ae1203b5438280f515f38a50f08e | Unknown |
-  | merch-sso (Retail Row) | 9427129c087d4049886d3b47349d1aad | Unknown |
+  | merch-sso | 9427129c087d4049886d3b47349d1aad | Unknown |
   | SF Community | b31a9e178ab84b21ad7435a53e4da4af | Unknown |
   | udnClient | bc742d26f8314469aa997373f39c876e | Unknown |
   | dieselWebsite | 875a3b57d3a640a6b7f9b4e883463ab4 | Unknown |
@@ -41,7 +42,6 @@ As of now, Epic have not released their OAuth client service to the public, so a
   | Diesel - Dauntless | b070f20729f84693b5d621c904fc5bc2 | HG@XE&TGCxEJsgT#&\_p2]=aRo#~>=>+c6PhR)zXP |
   | publicClient | f2f868d1259e4b128e5b7e8a3732cb1a | Unknown |
   | EOS SDK Auth Tool | 8f50327ba00d4ebeb81991ee04a42fc1 | 0b0d21c7-c195-4c75-abb0-00ebc36b60f5 |
-  | EOS SDK Auth Tool (gamedev) | dc1b76662b824a11a3de81b7aabc2169 | 3ed26ae3-c7fc-4fea-949a-dc6b7cee7b25 |
   | orionLivePCGameClient | 1483ba7d6c0247828c26cc8a74a9a183 | Unknown |
   | ocean_web | 4b6c700c72c44e178b12070f2719af1a | Unknown |
   | viper_web | 8df415b848c74affb682907405f7a52b | Unknown |
