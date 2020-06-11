@@ -65,3 +65,5 @@ As of now, Epic have not released their OAuth client service to the public, so a
   | fortniteEsportsComClient | 0fa561666d6e41cb95b2a357a8b4a6f3 | Unknown |
   | utvbulletin | e7d1a3ee19ac4173b80a53006dc53be3 | Unknown |
   | The Cycle | 189f729a313e415db0876a2091fecd8f | KiFmhdUYv7Dq6jVRe3YbqwGumWrVhkpbcCNcdfopcukF8VVmEKvyJkapqMNNPkYn |
+  | Academy Login | 17ce2d2864834898ab71847859286c81 | Unknown |
+  | unrealissues | 3adb22b897e24666971f9a273b1c15e8 | Unknown |
