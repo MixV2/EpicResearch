@@ -67,3 +67,4 @@ As of now, Epic have not released their OAuth client service to the public, so a
   | The Cycle | 189f729a313e415db0876a2091fecd8f | KiFmhdUYv7Dq6jVRe3YbqwGumWrVhkpbcCNcdfopcukF8VVmEKvyJkapqMNNPkYn |
   | Academy Login | 17ce2d2864834898ab71847859286c81 | Unknown |
   | unrealissues | 3adb22b897e24666971f9a273b1c15e8 | Unknown |
+  | ue4vbulletin | f65082b48b504eb88f73961b0131cda7 | Unknown |
