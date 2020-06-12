@@ -68,3 +68,4 @@ As of now, Epic have not released their OAuth client service to the public, so a
   | Academy Login | 17ce2d2864834898ab71847859286c81 | Unknown |
   | unrealissues | 3adb22b897e24666971f9a273b1c15e8 | Unknown |
   | ue4vbulletin | f65082b48b504eb88f73961b0131cda7 | Unknown |
+  | devEpicgamesWebsiteClient | 1412c33087cc452283d371665a8e5fbc | Unknown |
