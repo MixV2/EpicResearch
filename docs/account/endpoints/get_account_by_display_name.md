@@ -1,6 +1,5 @@
 # Get Account by Display Name
-Get an account ID from an Epic display name.  
-(e.g. `Ninja` resolves to `3cb5baa36d05436bac8272d60a1446cd`)
+Get information about an account by display name lookup. Returns account ID, display name, links and external auths.
 
 ## Request
 | URL | Method |
