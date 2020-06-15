@@ -16,7 +16,7 @@ Not very useful as of now due to not having the PSN/XBOX/Switch Fortnite clients
   
 ## Parameters
 - `external_auth_type`: an external auth type
-  - **epicgames_access_token**
+  - **epicgames_access_token**: used with Epic Online Services
   - psn
   - nintendo
   - xbl
