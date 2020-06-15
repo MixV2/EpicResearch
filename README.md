@@ -27,4 +27,5 @@ If you are looking to get authenticated quickly to use Epic's services, check ou
   - [Endpoints](https://github.com/MixV2/EpicResearch/tree/master/docs/account/endpoints)
     - [Get Account Metadata](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/get_account_metadata.md)
     - [Set Account Metadata](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/set_account_metadata.md)
-  
+    - [Get Device Authorization](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/get_device_authorization.md)
+    - [Get Account by Display Name](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/get_account_by_display_name.md)
