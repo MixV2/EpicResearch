@@ -2,7 +2,7 @@
 Every application (e.g. game, website) that utilises Epic's official services is issued an auth client that is used to identify requests sent to Epic, as well as to set boundaries to what a certain application can access.    
 
 Each auth client is issued a client ID as well as a secret.  
-You can see the permissions of an auth client by looking at the [permissions folder](https://github.com/MixV2/EpicResearch/tree/master/docs/auth/permissions) and the file with the corrosponding client ID.
+You can see the permissions of an auth client by looking at the [permissions folder](https://github.com/MixV2/EpicResearch/tree/master/docs/auth/permissions) and the file with the corresponding client ID.
 
 ## List of Auth Clients
 | Client Name | Client ID | Secret |
