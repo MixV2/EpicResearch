@@ -26,7 +26,6 @@ If you are looking to get authenticated quickly to use Epic's services, check ou
     - [Device Code](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/grant_types/device_code.md)
     - [External Auth](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/grant_types/external_auth.md)
 - [Account](https://github.com/MixV2/EpicResearch/tree/master/docs/account)
-  - [Account Model](https://github.com/MixV2/EpicResearch/blob/master/docs/account/account.md)
   - [Endpoints](https://github.com/MixV2/EpicResearch/tree/master/docs/account/endpoints)
     - [Get Account Metadata](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/get_account_metadata.md)
     - [Set Account Metadata](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/set_account_metadata.md)
