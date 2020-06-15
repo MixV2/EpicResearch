@@ -34,5 +34,6 @@ If you are looking to get authenticated quickly to use Epic's services, check ou
     - [Get Account by Display Name](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/get_account_by_display_name.md)
     - [Get Account by ID](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/get_account_by_id.md)
     - [Get Accounts by ID](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/get_accounts_by_id.md)
+    - [Get External Auths by ID](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/get_external_auths_by_id.md)
     - [Kill Access Token](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/kill_access_token.md)
     - [Kill Other Access Tokens](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/kill_other_access_tokens.md)
