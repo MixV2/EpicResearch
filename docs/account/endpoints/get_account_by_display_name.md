@@ -1,6 +1,6 @@
 # Get Account by Display Name
 Get an account ID from an Epic display name.  
-(e.g. `Ninja` resolves to `4735ce9132924caf8a5b17789b40f79c`)
+(e.g. `Ninja` resolves to `3cb5baa36d05436bac8272d60a1446cd`)
 
 ## Request
 | URL | Method |
