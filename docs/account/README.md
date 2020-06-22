@@ -7,7 +7,8 @@ You can access `account-public-service` through any of these domains:
 - https://account-public-service-prod03.ol.epicgames.com
 - https://account-public-service-prod.ak.epicgames.com
 - https://account-public-service-prod-m.ol.epicgames.com
-- https://egp-idsoc-proxy-prod.ol.epicgames.com (missing some endpoints, proxies admin service for some)
+- https://account.fortnite.qq.com
+- https://egp-idsoc-proxy-prod.ol.epicgames.com (missing some endpoints, uses different permissions)
 
 ## Account Structure
 A model of an account looks like:
