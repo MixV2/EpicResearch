@@ -36,7 +36,6 @@ You can see the permissions of an auth client by looking at the [permissions fol
 | Diesel - Dauntless | b070f20729f84693b5d621c904fc5bc2 | HG@XE&TGCxEJsgT#&\_p2]=aRo#~>=>+c6PhR)zXP |
 | publicClient | f2f868d1259e4b128e5b7e8a3732cb1a | Unknown |
 | EOS SDK Auth Tool | 8f50327ba00d4ebeb81991ee04a42fc1 | 0b0d21c7-c195-4c75-abb0-00ebc36b60f5 |
-| orionLivePCGameClient | 1483ba7d6c0247828c26cc8a74a9a183 | Unknown |
 | ocean_web | 4b6c700c72c44e178b12070f2719af1a | Unknown |
 | viper_web | 8df415b848c74affb682907405f7a52b | Unknown |
 | ue4answerhub | c4c02c7c99e94ed9870a9dbeafab2c3f | Unknown |
@@ -64,3 +63,7 @@ You can see the permissions of an auth client by looking at the [permissions fol
 | ue4vbulletin | f65082b48b504eb88f73961b0131cda7 | Unknown |
 | devEpicgamesWebsiteClient | 1412c33087cc452283d371665a8e5fbc | Unknown |
 | oceanIOSGameClient | 82f0e5faa90c4c209136870c50ae5642 | 73bf9f20-9bb0-481f-afd3-bfedc608ed8f |
+| orionLivePCGameClient | 1483ba7d6c0247828c26cc8a74a9a183 | 78facc4029ed4d66801a5402adad79c8 |
+| orionLivePS4GameClient | 9fe4a9e4584c43a0bca6bd22a52f2f40 | 3bc094a9bab74dcdb8bb74c836758d48 |
+| orionLivePS4EUGameClient | a510a43d1fcc4636bc9c99a46a7cd50c | 2bd23b2e603d46c4939fcbf9d2b2f46a |
+| orionLivePS4USGameClient | 63f198487c8646f192a59be02ce0d14c | 73f1d7b9e7124c3b8538e8d67d7c4e68 |
