@@ -17,3 +17,13 @@ If you want to get an access token for a client that doesn't have a redirect URL
   - `code`: (the code from the query string of the redirect response)
   
 If done successfully, you should now have an access token that you can use to access Epic's services!
+
+## Example
+Here's what the final HTTP request should look like when you have generated an authorization code - for this example, I am authenticating with `fortnitePCGameClient`:
+```http
+POST https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Authorization: basic ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY6ZTFmMzFjMjExZjI4NDEzMTg2MjYyZDM3YTEzZmM4NGQ=
+
+grant_type=authorization_code&code=(code from before)
+```

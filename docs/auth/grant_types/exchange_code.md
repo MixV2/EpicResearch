@@ -15,7 +15,7 @@ Games on the PC such as [Fortnite](https://fortnite.com) and [Battle Breakers](h
 - Cannot get through browser
 
 ## Method
-- Send a `GET` request to https://account-public-service-prod.ol.epicgames.com/account/api/oauth/exchange
+- Send a `GET` request to https://account-public-service-prod.ol.epicgames.com/account/api/oauth/exchange with a valid `Authorization` header
 - Send a `POST` request to https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token:    
   Required headers:
   - `Content-Type`: application/x-www-form-urlencoded

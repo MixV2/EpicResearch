@@ -8,4 +8,4 @@ Returns sensitive information if you are the owner of the account (like email ad
 | https://account-public-service-prod.ol.epicgames.com/account/api/public/account/{accountId} | `GET` |
 
 ## Parameters
-- `accountId`: the account ID of the account you are getting the ID of
+- `accountId`: target account ID

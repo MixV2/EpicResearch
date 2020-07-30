@@ -7,4 +7,4 @@ Similar to [getting an account by ID](https://github.com/MixV2/EpicResearch/blob
 | https://account-public-service-prod.ol.epicgames.com/account/api/public/account | `GET` |
 
 ## Parameters
-- `accountId`: the account ID of the account you are getting the ID of (can be repeated up to 100 times)
+- `accountId`: target account ID(s) (can be repeated up to 100 times)
