@@ -67,3 +67,4 @@ You can see the permissions of an auth client by looking at the [permissions fol
 | orionLivePS4GameClient | 9fe4a9e4584c43a0bca6bd22a52f2f40 | 3bc094a9bab74dcdb8bb74c836758d48 |
 | orionLivePS4EUGameClient | a510a43d1fcc4636bc9c99a46a7cd50c | 2bd23b2e603d46c4939fcbf9d2b2f46a |
 | orionLivePS4USGameClient | 63f198487c8646f192a59be02ce0d14c | 73f1d7b9e7124c3b8538e8d67d7c4e68 |
+| Diesel - Hi-Rez - Rogue Company | 7f7b1f9ac72440408d65115cd49d0184 | WgUdnDX3ebNU3Y8Rk2K9bmnBkJqdKMbnQ8jPbfjLJntP |
