@@ -12,6 +12,7 @@ You can see the permissions of an auth client by looking at the [permissions fol
 | fortniteAndroidGameClient | 3f69e56c7649492c8cc29f1af08a8a12 | b51ee9cb12234f50a69efa67ef53812e |
 | fortniteCNGameClient | efe3cbb938804c74b20e109d0efc1548 | 6e31bdbae6a44f258474733db74f39ba |
 | fortniteSwitchGameClient | 5229dcd3ac3845208b496649092f251b | e3bd2d3e-bf8c-4857-9e7d-f3d947d220c7 |
+| fortniteValkyrieGameClient | 3e13c5c57f594a578abe516eecb673fe | 530e316c337e409893c55ec44f22cd62 |
 | KairosPC | 5b685653b9904c1d92495ee8859dcb00 | 7Q2mcmneyuvPmoRYfwM7gfErA6iUjhXr |
 | Kairos iOS | 61d2f70175e84a6bba80a5089e597e1c | FbiZv3wbiKpvVKrAeMxiR6WhxZWVbrvA |
 | Kairos Android | 0716a69cb8b2422fbb2a8b0879501471 | cGthdfG68tyE7M3ZHMu3sXUBwqhibKFp |
@@ -31,7 +32,6 @@ You can see the permissions of an auth client by looking at the [permissions fol
 | affiliateWeb | 4d9a4e9e568a40faa77b9757b4fac210 | Unknown |
 | egstoreContentService | a472abd3e5ad4d90a0549213906dcf3f | Unknown |
 | creativeModeWebsite | 7de9f4b799d3470984093b218287dc72 | Unknown |
-| fortniteValkyrieGameClient | 3e13c5c57f594a578abe516eecb673fe | 530e316c337e409893c55ec44f22cd62 |
 | wexPCGameClient | 3cf78cd3b00b439a8755a878b160c7ad | b383e0f4-f0cc-4d14-99e3-813c33fc1e9d |
 | Diesel - Dauntless | b070f20729f84693b5d621c904fc5bc2 | HG@XE&TGCxEJsgT#&\_p2]=aRo#~>=>+c6PhR)zXP |
 | publicClient | f2f868d1259e4b128e5b7e8a3732cb1a | Unknown |
