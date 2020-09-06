@@ -69,3 +69,4 @@ You can see the permissions of an auth client by looking at the [permissions fol
 | orionLivePS4USGameClient | 63f198487c8646f192a59be02ce0d14c | 73f1d7b9e7124c3b8538e8d67d7c4e68 |
 | Diesel - Hi-Rez - Rogue Company | 7f7b1f9ac72440408d65115cd49d0184 | WgUdnDX3ebNU3Y8Rk2K9bmnBkJqdKMbnQ8jPbfjLJntP |
 | utDedicatedServer | 6ff43e743edc4d1dbac3594877b4bed9 | 54619d6f84d443e195200b54ab649a53 |
+| Fortnite Community Battles | 26c2c1eeeb9141a08d2e52afdda30fde | Unknown |
