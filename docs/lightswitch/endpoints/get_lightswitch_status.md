@@ -7,5 +7,6 @@ Determines whether an app can or cannot be played at the time as well as giving 
 | - | - |
 | http://lightswitch-public-service-prod.ol.epicgames.com/lightswitch/api/service/:serviceId/status | `GET` |
 
+
 ## Parameters
-- `serviceId`: service ID to check (e.g. Fortnite)
+- `serviceId`: service ID to check (e.g. Fortnite,FortniteLiveCN)
