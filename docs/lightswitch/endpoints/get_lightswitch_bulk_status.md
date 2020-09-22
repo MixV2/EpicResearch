@@ -8,4 +8,4 @@ Determines whether these apps can or cannot be played at the time as well as giv
 | http://lightswitch-public-service-prod.ol.epicgames.com/lightswitch/api/service/bulk/status | `GET` |
 
 ## Query String
-- `serviceId`: multiple service IDs to check (e.g. Fortnite, WorldExplorersLive)
+- `serviceId`: multiple service IDs to check (e.g. Fortnite, WorldExplorersLive,FortniteLiveCN)
