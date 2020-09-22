@@ -14,6 +14,6 @@ You can access `account-public-service` through any of these domains:
 A model of an account looks like:
 - `id`: the unique identifier of the account
 - `displayName`: the current display name of the account
-- `externalAuths`: a list of external auths (e.g. `xbl`, `psn`, `nintendo`)
+- `externalAuths`: a list of external auths (e.g. `xbl`, `psn`, `nintendo`,  `wegame`,  `etc...`)
 
 Keep in mind that there are a lot more attributes, but these are the only ones visible to other users.
