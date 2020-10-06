@@ -34,6 +34,7 @@ If you are struggling/having issues with getting something to work, feel free to
     - [Set Account Metadata](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/set_account_metadata.md)
     - [Get Device Authorization](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/get_device_authorization.md)
     - [Get Account by Display Name](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/get_account_by_display_name.md)
+    - [Get Account by Email](https://github.com/iHakeem/EpicResearch/blob/master/docs/account/endpoints/get_account_by_email.md)
     - [Get Account by ID](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/get_account_by_id.md)
     - [Get Accounts by ID](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/get_accounts_by_id.md)
     - [Get External Auths by ID](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/get_external_auths_by_id.md)
