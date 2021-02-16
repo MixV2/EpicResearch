@@ -70,4 +70,4 @@ You can see the permissions of an auth client by looking at the [permissions fol
 | Diesel - Hi-Rez - Rogue Company | 7f7b1f9ac72440408d65115cd49d0184 | WgUdnDX3ebNU3Y8Rk2K9bmnBkJqdKMbnQ8jPbfjLJntP |
 | utDedicatedServer | 6ff43e743edc4d1dbac3594877b4bed9 | 54619d6f84d443e195200b54ab649a53 |
 | Fortnite Community Battles | 26c2c1eeeb9141a08d2e52afdda30fde | Unknown |
-| MagmaReef | 84cd036b576541e9ad1634c1448c0c30 | Unknown |
+| MagmaReef | 876dbf395577470794c0a43ca63abde4 | Unknown |
