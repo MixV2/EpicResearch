@@ -11,4 +11,4 @@
   Body:
   - `grant_type`: client_credentials
   
-If done successfully, you should now have an access token that you can use to access some Epic's services!
+If done successfully, you should now have an access token that you can use to access some Epic's services! (e.g: Cloudstorage)
