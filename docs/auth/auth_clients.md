@@ -71,3 +71,4 @@ You can see the permissions of an auth client by looking at the [permissions fol
 | utDedicatedServer | 6ff43e743edc4d1dbac3594877b4bed9 | 54619d6f84d443e195200b54ab649a53 |
 | Fortnite Community Battles | 26c2c1eeeb9141a08d2e52afdda30fde | Unknown |
 | MagmaReef | 876dbf395577470794c0a43ca63abde4 | Unknown |
+| Fortnite Winter Trials | d978d5ac4e1545d59e4e93a05ce77e26 | Unknown |
