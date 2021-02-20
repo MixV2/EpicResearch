@@ -1,5 +1,5 @@
 
-# Authenticating using Client Credidental
+# Authenticating using client credentials
 
 ## Method
 - Choose the client you want to get an access token for from the [auth clients list](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/auth_clients.md)
