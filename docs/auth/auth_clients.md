@@ -73,3 +73,5 @@ You can see the permissions of an auth client by looking at the [permissions fol
 | Fortnite Community Battles | 26c2c1eeeb9141a08d2e52afdda30fde | Unknown |
 | MagmaReef | 876dbf395577470794c0a43ca63abde4 | Unknown |
 | Fortnite Winter Trials | d978d5ac4e1545d59e4e93a05ce77e26 | Unknown |
+| Square Enix | 8a438c1717d340429d5be1d6ce01f415 | Unknown |
+| FORTNITE RVS | 74554a19f3674cb094a467237d174c16 | Unknown |
