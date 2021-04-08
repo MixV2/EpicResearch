@@ -8,7 +8,7 @@ If you already have something documented and would like it added to the repo, fe
 If you are looking to get authenticated quickly to use Epic's services, check out [this guide](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/grant_types/authorization_code.md)!
 
 ## Need Help?
-If you are struggling/having issues with getting something to work, feel free to open an issue or join the [Epic Games App Development](https://discord.gg/yq72ZEu) server on Discord.
+If you are struggling/having issues with getting something to work, feel free to open an issue or join the [Epic Games App Development](https://discord.gg/j5ppCMFm96) server on Discord.
 
 ## Table of Contents
 - [MCP](https://github.com/MixV2/EpicResearch/tree/master/docs/mcp)
