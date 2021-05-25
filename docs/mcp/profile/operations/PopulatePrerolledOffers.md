@@ -1,5 +1,6 @@
 # PopulatePrerolledOffers
-The function of this operation is unknown.
+This function is needed to reload the llama store in stw. 
+If you try to buy llama without this request, you will get an error.
 
 ## Attributes
 Compatible Profiles: `campaign`  
