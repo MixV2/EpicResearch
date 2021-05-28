@@ -76,3 +76,4 @@ You can see the permissions of an auth client by looking at the [permissions fol
 | Fortnite Winter Trials | d978d5ac4e1545d59e4e93a05ce77e26 | Unknown |
 | Square Enix | 8a438c1717d340429d5be1d6ce01f415 | Unknown |
 | FORTNITE RVS | 74554a19f3674cb094a467237d174c16 | Unknown |
+| Among Us | xyza7891qtrmoYLr86we6DlfCA1RRsp8 | nGThQanzvthA2HPaARXe/xutzsKyx5WJveNkBx44ti4 |
