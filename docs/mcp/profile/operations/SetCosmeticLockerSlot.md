@@ -12,7 +12,8 @@ Supported MCPs: `fortnite`
     "category": "",
     "itemToSlot": "",
     "slotIndex": 0,
-    "variantUpdates": []
+    "variantUpdates": [],
+    "optLockerUseCountOverride": -1
 }
 ```
 
@@ -48,3 +49,4 @@ Supported MCPs: `fortnite`
         "owned": []
     }
     ```
+- `optLockerUseCountOverride`: Not sure what this means but keep it at either 0 or -1
