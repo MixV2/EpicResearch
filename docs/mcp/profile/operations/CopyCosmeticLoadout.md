@@ -1,4 +1,4 @@
-# ClaimLoginReward
+# CopyCosmeticLoadout
 Copies or saves a cosmetic loadout.
 
 ## Attributes
