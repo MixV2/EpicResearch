@@ -9,8 +9,8 @@ Supported MCPs: `fortnite`
 ```json
 {
     "optNewNameForTarget": "",
-    "sourceIndex": "1",
-    "targetIndex": "0"
+    "sourceIndex": "",
+    "targetIndex": ""
 }
 ```
 
@@ -18,12 +18,12 @@ Supported MCPs: `fortnite`
 ```json
 {
     "optNewNameForTarget": "",
-    "sourceIndex": "0",
-    "targetIndex": "1"
+    "sourceIndex": "",
+    "targetIndex": ""
 }
 ```
 
-- `optNewNameForTarget`: Idk what this is
+- `optNewNameForTarget`: Idk what this is (You can leave the string empty)
 - `sourceIndex`: Index of the loadout you want to copy
 - `targetIndex`: Index of the loadout you want to save
 
