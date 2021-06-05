@@ -1,5 +1,5 @@
 # ClaimLoginReward
-Copies or saves a cosmetic loadout.
+Copy or save a cosmetic loadout.
 
 ## Attributes
 Compatible Profiles: `athena`
@@ -9,8 +9,8 @@ Supported MCPs: `fortnite`
 ```json
 {
     "optNewNameForTarget": "",
-    "sourceIndex": "",
-    "targetIndex": ""
+    "sourceIndex": "1",
+    "targetIndex": "0"
 }
 ```
 
@@ -18,8 +18,8 @@ Supported MCPs: `fortnite`
 ```json
 {
     "optNewNameForTarget": "",
-    "sourceIndex": "",
-    "targetIndex": ""
+    "sourceIndex": "0",
+    "targetIndex": "1"
 }
 ```
 
