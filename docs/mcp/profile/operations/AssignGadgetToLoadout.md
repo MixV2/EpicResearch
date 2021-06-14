@@ -9,10 +9,12 @@ Supported MCPs: `fortnite`
 ```json
 {
     "gadgetId": "",
-    "loadoutId": ""
+    "loadoutId": "",
+    "slotIndex": 0
 }
 ```
 
 ## Parameters
 - `gadgetId`: ID of gadget
 - `loadoutId`: ID of loadout to assign gadget to
+- `slotIndex`: ID of gadget slot to assign gadget to
