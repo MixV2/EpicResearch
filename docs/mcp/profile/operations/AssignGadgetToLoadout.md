@@ -10,7 +10,7 @@ Supported MCPs: `fortnite`
 {
     "gadgetId": "",
     "loadoutId": "",
-    "slotIndex": 
+    "slotIndex": 0
 }
 ```
 
