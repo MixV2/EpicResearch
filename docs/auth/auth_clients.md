@@ -48,7 +48,7 @@ You can see the permissions of an auth client by looking at the [permissions fol
 | utcomClient | f0b883ba7d3646bba4aa11bf1d71c071 | Unknown |
 | devportalWebsite| 1e2da690d4914a72a26be4d09862c559 | Unknown |
 | unrealNodeComClient | 932e595bedb643d9ba56d3e1089a5c4b | Unknown |
-| Remedy Entertainment 505 Uploader Client| 8522af44af194836a532884e84d2b6e2 | 9dc959b5-0fb6-45aa-a08c-96c539d9b85e |
+| Remedy Entertainment 505 Uploader Client | 8522af44af194836a532884e84d2b6e2 | 9dc959b5-0fb6-45aa-a08c-96c539d9b85e |
 | fortniteTrackerFortniteClient | d7c956d5f1de46088dc2f5b8fccae940 | Unknown |
 | launcherPaymentClient2 | 8e889dadbfaf4145b3a806f51d1e3fee | 2c6040b846404160abf5229c565d6ef7 |
 | graphqlWebsite | 319e1527d0be4457a1067829fc0ad86e | Unknown |
