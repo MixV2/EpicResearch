@@ -11,7 +11,7 @@ You can see the permissions of an auth client by looking at the [permissions fol
 | fortniteIOSGameClient | 3446cd72694c4a4485d81b77adbb2141 | 9209d4a5e25a457fb9b07489d313b41a |
 | fortniteAndroidGameClient | 3f69e56c7649492c8cc29f1af08a8a12 | b51ee9cb12234f50a69efa67ef53812e |
 | fortniteCNGameClient | efe3cbb938804c74b20e109d0efc1548 | 6e31bdbae6a44f258474733db74f39ba |
-| fortniteSwitchGameClient | 5229dcd3ac3845208b496649092f251b | e3bd2d3e-bf8c-4857-9e7d-f3d947d220c7 |
+| fortniteSwitchGameClient | 98f7e42c2e3a4f86a74eb43fbb41ed39 | 0a2449a2-001a-451e-afec-3e812901c4d7 |
 | fortniteXboxGameClient | cfaa14c4bf8744e3a5ef9a5d6c34558d | Unknown |
 | fortniteValkyrieGameClient | 3e13c5c57f594a578abe516eecb673fe | 530e316c337e409893c55ec44f22cd62 |
 | KairosPC | 5b685653b9904c1d92495ee8859dcb00 | 7Q2mcmneyuvPmoRYfwM7gfErA6iUjhXr |
