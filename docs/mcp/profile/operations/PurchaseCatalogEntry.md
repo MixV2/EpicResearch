@@ -2,7 +2,7 @@
 Purchases an item from the item shop.
 
 ## Attributes
-Compatible Profiles: `athena`  
+Compatible Profiles: `common_core`  
 Supported MCPs: `fortnite`, `wex`
 
 ## Payload
