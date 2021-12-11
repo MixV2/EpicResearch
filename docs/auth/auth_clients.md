@@ -7,7 +7,7 @@ You can see the permissions of an auth client by looking at the [permissions fol
 ## List of Auth Clients
 | Client Name | Client ID | Secret |
 | - | - | - |
-| [fortnitePCGameClient](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/permissions/ec684b8c687f479fadea3cb2ad83f5c6.md) | ec684b8c687f479fadea3cb2ad83f5c6` | `e1f31c211f28413186262d37a13fc84d |
+| [fortnitePCGameClient](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/permissions/ec684b8c687f479fadea3cb2ad83f5c6.md) | ec684b8c687f479fadea3cb2ad83f5c6 | e1f31c211f28413186262d37a13fc84d |
 | [fortniteIOSGameClient](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/permissions/3446cd72694c4a4485d81b77adbb2141.md) | 3446cd72694c4a4485d81b77adbb2141 | 9209d4a5e25a457fb9b07489d313b41a |
 | [fortniteAndroidGameClient](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/permissions/3f69e56c7649492c8cc29f1af08a8a12.md) | 3f69e56c7649492c8cc29f1af08a8a12 | b51ee9cb12234f50a69efa67ef53812e |
 | [fortniteCNGameClient](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/permissions/efe3cbb938804c74b20e109d0efc1548.md) | efe3cbb938804c74b20e109d0efc1548 | 6e31bdbae6a44f258474733db74f39ba |
