@@ -1,7 +1,5 @@
 # RequestRestedStateIncrease
-Claim Supercharged xp. Used at fortnite winterfest.
-
-<img src="https://user-images.githubusercontent.com/66485277/147312340-0fce29ad-3b96-4b8f-a5ed-7a7c4e68244a.png" width="500" height="380.7"/>
+Claim supercharged XP. Used at Fortnite Winterfest.
 
 ## Attributes
 Compatible Profiles: `common_core`
@@ -10,11 +8,11 @@ Supported MCPs: `fortnite`
 ## Payload
 ```json
 {
-	"timeToCompensateFor": 0,
-	"restedXpGenAccumulated": 700
+    "timeToCompensateFor": 0,
+    "restedXpGenAccumulated": 700
 }
 ```
 
 ## Parameters
 - `timeToCompensateFor`: unknown
-- `restedXpGenAccumulated`: the number of seconds
+- `restedXpGenAccumulated`: amount of XP accumulated during rest period
