@@ -15,4 +15,4 @@ Supported MCPs: `fortnite`
 
 ## Parameters
 - `timeToCompensateFor`: unknown
-- `restedXpGenAccumulated`: amount of XP accumulated during rest period
+- `restedXpGenAccumulated`: amount of time spent accumulating XP
