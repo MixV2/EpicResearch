@@ -2,7 +2,7 @@
 Claim supercharged XP. Used at Fortnite Winterfest.
 
 ## Attributes
-Compatible Profiles: `common_core`
+Compatible Profiles: `common_core`  
 Supported MCPs: `fortnite`
 
 ## Payload
