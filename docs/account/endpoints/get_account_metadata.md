@@ -6,3 +6,6 @@ In this case, metadata is only really used to get certain settings on account su
 | URL                                                                                             | Method |
 | ----------------------------------------------------------------------------------------------- | ------ |
 | https://account-public-service-prod03.ol.epicgames.com/account/api/accounts/:accountId/metadata | `GET`  |
+
+## Parameters
+- `accountId`: target account ID
