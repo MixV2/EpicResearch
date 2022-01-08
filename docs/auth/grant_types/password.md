@@ -1,6 +1,6 @@
 # Authenticating by Password
 This grant type, `password`, can be used to generate an access token with an email address and password.  
-However, this grant type has been deprecated on all public clients.
+**However, this grant type has been deprecated on all public clients.**
 
 ## Method
 - Send a `POST` request to https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token:  
