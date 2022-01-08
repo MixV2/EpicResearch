@@ -2,6 +2,8 @@
 This grant type, `token_to_token`, can be used to generate an access token from an already existing access token.    
 
 For example, if you had an access token (e.g. `abc123`), you could generate more access tokens (e.g. `def456` and `ghi789`) without invalidating the first token.
+However, this grant type has been deprecated on all public clients.
+
 
 ## Method
 - Send a `POST` request to https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token:
