@@ -7,7 +7,7 @@ An operation request looks like:
 - URL: `:host/:namespace/api/game/v2/profile/:accountID/client/:operation?profileId=:profile&rvn=-1`
 - Method: `POST`
 
-Some operations will also require a JSON body, which can be found in the [list of operations](https://github.com/MixV2/EpicResearch/blob/master/docs/mcp/profile/operations).  
+Some operations will also require a JSON body, which can be found in the [list of operations](https://github.com/MixV2/EpicResearch/tree/master/docs/mcp/profile/operations).  
 Keep in mind that `client` is not present on all requests for some MCPs (e.g. Battle Breakers).
 
 ## Example Operation
