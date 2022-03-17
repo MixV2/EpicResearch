@@ -2,7 +2,7 @@
 Gets a list of quests to complete.
 
 ## Attributes
-Compatible Profiles: `athena`  
+Compatible Profiles: `athena`, `campaign`  
 Supported MCPs: `fortnite`
 
 ## Payload
