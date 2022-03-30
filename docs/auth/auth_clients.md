@@ -13,6 +13,7 @@ You can see the permissions of an auth client by looking at the [permissions fol
 | [fortniteCNGameClient](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/permissions/efe3cbb938804c74b20e109d0efc1548.md) | efe3cbb938804c74b20e109d0efc1548 | 6e31bdbae6a44f258474733db74f39ba |
 | fortniteXboxGameClient | cfaa14c4bf8744e3a5ef9a5d6c34558d | Unknown |
 | [fortniteValkyrieGameClient](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/permissions/3e13c5c57f594a578abe516eecb673fe.md) | 3e13c5c57f594a578abe516eecb673fe | 530e316c337e409893c55ec44f22cd62 |
+| fortniteNewSwitchGameClient | 98f7e42c2e3a4f86a74eb43fbb41ed39 | 0a2449a2-001a-451e-afec-3e812901c4d7 |
 | [KairosPC](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/permissions/5b685653b9904c1d92495ee8859dcb00.md) | 5b685653b9904c1d92495ee8859dcb00 | 7Q2mcmneyuvPmoRYfwM7gfErA6iUjhXr |
 | [Kairos iOS](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/permissions/61d2f70175e84a6bba80a5089e597e1c.md) | 61d2f70175e84a6bba80a5089e597e1c | FbiZv3wbiKpvVKrAeMxiR6WhxZWVbrvA |
 | [Kairos Android](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/permissions/0716a69cb8b2422fbb2a8b0879501471.md) | 0716a69cb8b2422fbb2a8b0879501471 | cGthdfG68tyE7M3ZHMu3sXUBwqhibKFp |
