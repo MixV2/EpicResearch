@@ -3,7 +3,7 @@ Get's quests.
 
 ## Attributes
 Compatible Profiles: `athena`  
-Supported MCPs: `unknown`
+Supported MCPs: `Fortnite`
 
 ## Payload
 ```json
