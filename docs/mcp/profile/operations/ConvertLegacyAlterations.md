@@ -1,5 +1,5 @@
 # ConvertLegacyAlterations
-Not entirely sure what a "legacy alteration" is, but this operation possibly converts a "legacy item" to something new?
+Converts legacy (pre-v4.2) schematic perks to the new ones.
 
 ## Attributes
 Compatible Profiles: `campaign`  
