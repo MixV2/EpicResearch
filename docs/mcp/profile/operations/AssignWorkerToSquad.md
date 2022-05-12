@@ -1,5 +1,5 @@
 # AssignWorkerToSquad
-Assign a worker to a squad by ID.
+Assign a worker (survivor, defender or hero) to a squad by ID.
 
 ## Attributes
 Compatible Profiles: `campaign`  
