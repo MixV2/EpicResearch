@@ -1,4 +1,5 @@
 # QueryPublicProfile
+
 Get STW information on anyone's profile with any Bearer token.
 
 ## Attributes
