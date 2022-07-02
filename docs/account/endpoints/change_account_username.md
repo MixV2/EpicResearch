@@ -10,6 +10,6 @@ Requires launcher token.
 ## Payload
 ```json
 {
-    "displayName": "",
+    "displayName": ""
 }
 ```
