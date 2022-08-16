@@ -11,7 +11,7 @@ Unlike exchange codes, a device auth is a set of three values that are needed to
 - Most clients support this grant type
 
 ## Disadvantages
-- Can only generate access tokens for the client that the device auth was issued to
+- ~~Can only generate access tokens for the client that the device auth was issued to~~
 - To generate a device auth, you must already be authenticated
 
 ## Method
