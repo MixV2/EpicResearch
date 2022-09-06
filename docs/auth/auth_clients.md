@@ -77,3 +77,4 @@ You can see the permissions of an auth client by looking at the [permissions fol
 | FORTNITE RVS | 74554a19f3674cb094a467237d174c16 | Unknown |
 | Among Us | xyza7891qtrmoYLr86we6DlfCA1RRsp8 | nGThQanzvthA2HPaARXe/xutzsKyx5WJveNkBx44ti4 |
 | fortniteAndroidGameClient-deprecated | 72f83226ab664739b635b1e318a635bc | 2f298cd32c6641fab2b0ceaa5bc9c92f |
+| Multiversus | xyza78914ucg8qGrE2tBEtjF6iWWc9OQ | Yu4GTawt3NJAYbf54tH679UawG+G4uuz7cGphezeBGw 
