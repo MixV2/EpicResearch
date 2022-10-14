@@ -4,7 +4,7 @@ If you want to get an access token for a client that doesn't have a redirect URL
 
 ## Method
 - Choose the client you want to get an access token for from the [auth clients list](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/auth_clients.md)
-- Open https://www.epicgames.com/id/api/redirect?clientId=:clientId&responseType=code in a browser (make sure you are logged in with epicgames.com), replacing `:clientId` with the chosen client ID
+- Open https://www.epicgames.com/id/api/redirect?clientId=:clientId&responseType=code in a browser (make sure you are logged in with epicgames.com or you can use this link https://www.epicgames.com/id/login?redirectUrl=https://www.epicgames.com/id/api/redirect?clientId=:clientId&responseType=code), replacing `:clientId` with the chosen client ID
 - Send a `POST` request to https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token:    
   Required headers:
   - `Content-Type`: application/x-www-form-urlencoded
