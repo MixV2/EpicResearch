@@ -46,3 +46,4 @@ If you are looking to get authenticated quickly to use Epic's services, check ou
     - [Kill Access Token](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/kill_access_token.md)
     - [Kill Other Access Tokens](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/kill_other_access_tokens.md)
     - [Verify Auth Session](https://github.com/MixV2/EpicResearch/blob/master/docs/account/endpoints/verify_auth_session.md)
+    - [Change Account Username](https://github.com/RiftSTW/EpicResearch/blob/master/docs/account/endpoints/change_account_username.md)

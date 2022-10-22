@@ -1,5 +1,6 @@
 # QueryPublicProfile
-Get STW information on anyone's account with any bearer token.
+
+Get STW information on anyone's profile with any Bearer token.
 
 ## Attributes
 Compatible Profiles: `campaign`  
