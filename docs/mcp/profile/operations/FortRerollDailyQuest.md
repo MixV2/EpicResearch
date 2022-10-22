@@ -2,7 +2,7 @@
 Rerolls Daily Quest by ID.
 
 ## Attributes
-Compatible Profiles: `campaign`  
+Compatible Profiles: `athena`, `campaign`  
 Supported MCPs: `fortnite`
 
 ## Payload

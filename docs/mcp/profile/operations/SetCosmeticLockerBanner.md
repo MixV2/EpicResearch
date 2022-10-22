@@ -1,5 +1,5 @@
 # SetCosmeticLockerBanner
-Equip an banner in the Battle Royale locker.
+Equip a banner in the Battle Royale locker.
 
 ## Attributes
 Compatible Profiles: `athena`  

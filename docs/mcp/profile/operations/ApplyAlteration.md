@@ -1,5 +1,5 @@
 # ApplyAlteration
-Applies an alteration.
+Applies a perk to the schematic.
 
 ## Attributes
 Compatible Profiles: `campaign`  
