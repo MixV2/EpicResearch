@@ -13,4 +13,4 @@ Supported MCPs: `athena`
 ```
 
 ## Parameters
-- `targetItemId`: Item ID
+- `targetItemId`: Id of the item you want to upgrade the rarity of.
