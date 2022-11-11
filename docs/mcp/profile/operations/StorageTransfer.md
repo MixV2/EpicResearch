@@ -10,9 +10,9 @@ Supported MCPs: `athena`
 {
     "transferOperations": [
       "itemId": "",
-			"quantity": 0,
-			"toStorage": ,
-			"newItemIdHint": ""
+	"quantity": 0,
+	"toStorage": ,
+	"newItemIdHint": ""
     ]
 }
 ```
