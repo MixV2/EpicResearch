@@ -9,7 +9,7 @@ Supported MCPs: `athena`
 ```json
 {
     "transferOperations": [
-      "itemId": "",
+        "itemId": "",
 	"quantity": 0,
 	"toStorage": ,
 	"newItemIdHint": ""
