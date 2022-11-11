@@ -11,7 +11,7 @@ Supported MCPs: `athena`
     "transferOperations": [
         "itemId": "",
 	"quantity": 0,
-	"toStorage": ,
+	"toStorage": true,
 	"newItemIdHint": ""
     ]
 }
