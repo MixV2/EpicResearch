@@ -3,7 +3,7 @@
 ## Request
 | URL | Method | Auth Required |
 | - | - | - |
-| https://www.epicgames.com/fortnite/ajax/redemption/validate-redemption-code?redeem-code={redeemCode}} | `POST` | Yes |
+| https://www.epicgames.com/fortnite/ajax/redemption/validate-redemption-code?redeem-code={redeemCode} | `POST` | Yes |
 
 ## Headers
 ```
