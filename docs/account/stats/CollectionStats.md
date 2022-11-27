@@ -20,6 +20,8 @@
 }
 ```
 
-**startDate**: `0 (for alltime) or set for custom time-window` \
-**endDate**: `9223372036854775807 (for alltime) or set for custom time-window` \
-**owners**: `array of account ids (to get the stats from)`
+``startDate``: 0 (for alltime) or set for custom time-window
+
+``endDate``: 9223372036854775807 (for alltime) or set for custom time-window
+
+``owners``: array of account ids (to get the stats from)
