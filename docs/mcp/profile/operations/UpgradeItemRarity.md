@@ -3,7 +3,7 @@ Upgrades item's rarity (compatible to schematics and Heroes)
 
 ## Attributes
 Compatible Profiles: `campaign`  
-Supported MCPs: `athena`
+Supported MCPs: `fortnite`
 
 ## Payload
 ```json
