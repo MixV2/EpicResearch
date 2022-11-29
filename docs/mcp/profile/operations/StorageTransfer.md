@@ -3,7 +3,7 @@ Transfers an item from/to storage.
 
 ## Attributes
 Compatible Profiles: `theater0`  
-Supported MCPs: `athena`
+Supported MCPs: `fortnite`
 
 ## Payload
 ```json
