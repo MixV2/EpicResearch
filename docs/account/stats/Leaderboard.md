@@ -1,4 +1,4 @@
-# Code Info for User
+# Leaderboard status
 
 ## Request
 | URL | Method | Auth Required |
