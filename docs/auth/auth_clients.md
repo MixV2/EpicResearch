@@ -30,7 +30,7 @@ You can see the permissions of an auth client by looking at the [permissions fol
 | udnClient | bc742d26f8314469aa997373f39c876e | Unknown |
 | [dieselWebsite](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/permissions/875a3b57d3a640a6b7f9b4e883463ab4.md) | 875a3b57d3a640a6b7f9b4e883463ab4 | Unknown |
 | [fortniteComClient](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/permissions/cd2b7c19c9734a2ab98dc251868d7724.md) | cd2b7c19c9734a2ab98dc251868d7724 | Unknown |
-| affiliateWeb | 4d9a4e9e568a40faa77b9757b4fac210 | Unknown |
+| affiliate_web | 4d9a4e9e568a40faa77b9757b4fac210 | Unknown |
 | egstoreContentService | a472abd3e5ad4d90a0549213906dcf3f | Unknown |
 | creativeModeWebsite | 7de9f4b799d3470984093b218287dc72 | Unknown |
 | [wexPCGameClient](https://github.com/MixV2/EpicResearch/blob/master/docs/auth/permissions/3cf78cd3b00b439a8755a878b160c7ad.md) | 3cf78cd3b00b439a8755a878b160c7ad | b383e0f4-f0cc-4d14-99e3-813c33fc1e9d |
@@ -77,3 +77,45 @@ You can see the permissions of an auth client by looking at the [permissions fol
 | FORTNITE RVS | 74554a19f3674cb094a467237d174c16 | Unknown |
 | Among Us | xyza7891qtrmoYLr86we6DlfCA1RRsp8 | nGThQanzvthA2HPaARXe/xutzsKyx5WJveNkBx44ti4 |
 | fortniteAndroidGameClient-deprecated | 72f83226ab664739b635b1e318a635bc | 2f298cd32c6641fab2b0ceaa5bc9c92f |
+| epicgamesWebsiteClient | 007c0bfe154c4f5396648f013c641dcf | Unkown |
+| fortnitePS5USGameClient | 03f2645147214e1ab368caa78c5fca81 | Unkown |
+| Content Creators | 11d0352c60d045698fa3655016337f8f | Unkown |
+| paymentWebClient | 29cee42e711746e1bbcafb62929e48fd | Unkown |
+| fortnitePS5EUGameClient | 386cbbc78d57464181005c3f7edfad0d | Unkown |
+| fortnitePS5USGameClientTest | 3cf19c6ba05a4fa3997957491e15ba1c | Unkown |
+| Rocket League	 | 3cfbd28f92b0491f97e22ae827d10f14 | Unkown |
+| content-service-live-web | 4e1e74dcfe6e4d6eaea66fec15f9b9d4 | Unkown |
+| twinmotion-website | 4f5e975e1b4c4b5caca20f70daa90c17 | Unkown |
+| web-eos-documentation | 4f7af87d02fa4568835269abb600c2ea | Unkown |
+| FN Discord Quest - Stage | 4fa1f937bc684525a9b86bb2255fcee3 | Unkown |
+| fortniteSwitchGameClient | 5229dcd3ac3845208b496649092f251b | e3bd2d3e-bf8c-4857-9e7d-f3d947d220c7 |
+| RealIdWeb | 52aff4e66d4d45548180ccf65ce12d3e | Unkown |
+| fallguysSite | 586dff7efd074d01b0503968cd0d378e | Unkown |
+| Rockstar Games - Game Client | 6b3b277c50a74855ab9beff2d62428aa | 4h8MBChGbrV2woGgr2fdaYn2iWtHdf9F |
+| ueLauncherSite | 6b3b277c50a74855ab9beff2d62428aa | Unkown |
+| EM 2 | 6d2a42a9fa1c4242a2783f690ee0bb2c | Unkown |
+| Naruto Nindo | 70e113f930c8478d9bcbab61ef3cbd4f | Unkown |
+| Fortnite Activation Web Application | 77bf1d2f9e1b4801b4c9305cca1c7dd7 | Unkown |
+| fortnitePS4EUGameClient | 79a931b375334570ac369234f5da05ec | Unkown |
+| Epic Games Client Service | 7a40f8cdafd346219a4a0a15522b8ed7 | a94578c3-3a79-4441-ad22-a4ef6c9380a1 |
+| Diesel - Monomi Park - Slime Rancher | 7c0e608d74ec4f40a1d58beb26639367 | P9A63tad7Yk5FPRRmqbopgACDq99em |
+| self-service-portal | 8177ec72e7364c59a61a36213900ba67 | Unkown |
+| fortnitePCQAGameClientTest | 81ffd992c8a94ccaaaa6bd74c073ce6a | Unkown |
+| Creative Mayhem - Love Is In The Air - Auth (Prod) | 83e7c74755d44603b75020b86a70e150 | Unkown |
+| Refer a Friend | 94b8b951a116407dae2bbf22dadb192e | Unkown |
+| fortniteNewSwitchGameClient | 98f7e42c2e3a4f86a74eb43fbb41ed39 | 0a2449a2-001a-451e-afec-3e812901c4d7 |
+| StreamElements | a29e10f56c484fcdbb3be1bd1c77769a | Unkown |
+| fulfillmentClient | b3a0d1d6558b788e27a8c044083375ef | Unkown |
+| Quixel | b9101103b8814baa9bb4e79e5eb107d0 | Unkown |
+| fortniteHKGameClient | bb69d1e9bedb4c04a9e64a63a40aa2a4 | f7debd4825cf4929a19e3e4010641ab5 |
+| mergeWeb | bc904f1795cd4f29a5d1f41e784e0793 | Unkown |
+| Diesel - Rockstar - Serpentine | c19208b6eec5423d951186aee0ad7b9c | YaEL5raCmwNB4TuZf5AU |
+| Boundless | c62bb2285788480490e5da16c92717a2 | Unkown |
+| social-token-exchange-prod | cf27c69fe66441e8a8a4e8faf396ee4c | Unkown |
+| fortnitePS4USGameClient | d8566f2e7f5c48f89683173eb529fee1 | Unkown |
+| fortniteXSXGameClient | db84fa58b60e468ba64e3b17209b56e9 | Unkown |
+| Intel | e495114512ec497db52a053fc7b50651 | Unkown |
+| content-service-livetesting-web | f09fd7f36cc54b5fa08fb3f0e371e438 | Unkown |
+| Hi-Rez | fd81de75ae49408183023bfc50a9f1cf | Unkown |
+| Multiverus | g8qGrE2tBEtjF6iWWc9OQ | Yu4GTawt3NJAYbf54tH679UawG+G4uuz7cGphezeBGw |
+| Fall Guys | xyza7891mADED0tPNJFOiF8OmI0DwY0J | 8w2sDwL5/GuUjeVbHZIxe1FAFwi+tuQI2msSCVIO+EA	|
