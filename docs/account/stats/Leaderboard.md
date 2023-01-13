@@ -11,4 +11,4 @@
 
 ``br_placetop1_keyboardmouse_m0_playlist_defaultduo``
 
-``br_placetop1_keyboardmouse_m0_playlist_defaultsquad`` (I think ONLY those work!)
+``br_placetop1_keyboardmouse_m0_playlist_defaultsquad``
