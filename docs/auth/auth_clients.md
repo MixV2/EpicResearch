@@ -119,3 +119,4 @@ You can see the permissions of an auth client by looking at the [permissions fol
 | Hi-Rez | fd81de75ae49408183023bfc50a9f1cf | Unknown |
 | Multiverus | g8qGrE2tBEtjF6iWWc9OQ | Yu4GTawt3NJAYbf54tH679UawG+G4uuz7cGphezeBGw |
 | Fall Guys | xyza7891mADED0tPNJFOiF8OmI0DwY0J | 8w2sDwL5/GuUjeVbHZIxe1FAFwi+tuQI2msSCVIO+EA |
+| Koala | 11f52c3906fb45e39e4f64a585bb4d2d | 7517be87-fc6f-45ed-9b34-f21d9097683e |
