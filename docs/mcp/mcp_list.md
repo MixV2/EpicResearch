@@ -4,8 +4,6 @@ Quite a few games by Epic (and other companies) use the MCP in their game. They 
 | Game | URL |
 | - | - |
 | Fortnite | https://fortnite-public-service-prod11.ol.epicgames.com/fortnite |
-| Battle Breakers | https://wex-public-service-live-prod.ol.epicgames.com/wex |
-| Unreal Tournament | https://ut-public-service-prod10.ol.epicgames.com/ut |
 | Borderlands 3 | https://oak-public-service-prod.ol.epicgames.com/oak |
 
 When the documentation shows an endpoint as containing `:namespace`, it means you need to combine the URLs by replacing `:namespace` in the endpoint URL with the MCP URL for your chosen MCP.
